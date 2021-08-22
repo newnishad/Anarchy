@@ -1,0 +1,4443 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:22:49] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:24:06] 
+[01:24:06] Server Plugins
+[01:24:06] --------------
+[01:24:06]  Loaded 0 plugins.
+
+[01:24:06] 
+[01:24:06] Filterscripts
+[01:24:06] ---------------
+[01:24:06]   Loading filterscript 'random/gl_actions.amx'...
+[01:24:06]   Loading filterscript 'random/gl_chat.amx'...
+[01:24:06]   Loaded 2 filterscripts.
+
+[01:24:06] Loaded 3 vehicles from: vehicles/trains.txt
+[01:24:06] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:24:06] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:24:06] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:24:06] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:24:06] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:24:06] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:24:06] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:24:06] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:24:06] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:24:06] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:24:06] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:24:06] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:24:06] Loaded 168 vehicles from: vehicles/bone.txt
+[01:24:06] Loaded 61 vehicles from: vehicles/flint.txt
+[01:24:06] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:24:06] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:24:06] Total vehicles from files: 1781
+[01:24:06] 
+---------------------------------------
+[01:24:06] Running Grand Larceny - by the SA-MP team
+
+[01:24:06] ---------------------------------------
+
+[01:24:06] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:37] 
+[01:27:37] Server Plugins
+[01:27:37] --------------
+[01:27:37]  Loaded 0 plugins.
+
+[01:27:37] 
+[01:27:37] Filterscripts
+[01:27:37] ---------------
+[01:27:37]   Loading filterscript 'random/gl_actions.amx'...
+[01:27:37]   Loading filterscript 'random/gl_chat.amx'...
+[01:27:37]   Loaded 2 filterscripts.
+
+[01:27:37] 
+----------------------------------
+[01:27:37]  Gamemode by hellonishad.com
+[01:27:37] ----------------------------------
+
+[01:27:37] Number of vehicle models: 0
+[01:27:44] [connection] 127.0.0.1:54382 requests connection cookie.
+[01:27:45] [connection] incoming connection: 127.0.0.1:54382 id: 0
+[01:27:45] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:27:46] [part] Nisad_Rahman has left the server (0:1)
+[01:27:46] [connection] incoming connection: 127.0.0.1:54383 id: 0
+[01:27:46] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:27:52] [part] Nisad_Rahman has left the server (0:1)
+[01:29:02] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:29:29] 
+[01:29:29] Server Plugins
+[01:29:29] --------------
+[01:29:29]  Loaded 0 plugins.
+
+[01:29:29] 
+[01:29:29] Filterscripts
+[01:29:29] ---------------
+[01:29:29]   Loading filterscript 'random/gl_actions.amx'...
+[01:29:29]   Loading filterscript 'random/gl_chat.amx'...
+[01:29:29]   Loaded 2 filterscripts.
+
+[01:29:29] 
+----------------------------------
+[01:29:29]  Gamemode by hellonishad.com
+[01:29:29] ----------------------------------
+
+[01:29:29] Number of vehicle models: 0
+[01:29:44] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:29:44] 
+[01:29:44] Server Plugins
+[01:29:44] --------------
+[01:29:44]  Loaded 0 plugins.
+
+[01:29:44] 
+[01:29:44] Filterscripts
+[01:29:44] ---------------
+[01:29:44]   Loading filterscript 'random/gl_actions.amx'...
+[01:29:44]   Loading filterscript 'random/gl_chat.amx'...
+[01:29:44]   Loaded 2 filterscripts.
+
+[01:29:44] 
+----------------------------------
+[01:29:44]  Gamemode by hellonishad.com
+[01:29:44] ----------------------------------
+
+[01:29:44] Number of vehicle models: 0
+[01:31:25] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:31:25] 
+[01:31:25] Server Plugins
+[01:31:25] --------------
+[01:31:25]  Loaded 0 plugins.
+
+[01:31:25] 
+[01:31:25] Filterscripts
+[01:31:25] ---------------
+[01:31:25]   Loading filterscript 'random/gl_actions.amx'...
+[01:31:25]   Loading filterscript 'random/gl_chat.amx'...
+[01:31:25]   Loaded 2 filterscripts.
+
+[01:31:25] 
+----------------------------------
+[01:31:25]  Gamemode by hellonishad.com
+[01:31:25] ----------------------------------
+
+[01:31:25] Number of vehicle models: 0
+[01:32:56] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:32:56] 
+[01:32:56] Server Plugins
+[01:32:56] --------------
+[01:32:56]  Loaded 0 plugins.
+
+[01:32:56] 
+[01:32:56] Filterscripts
+[01:32:56] ---------------
+[01:32:56]   Loading filterscript 'random/gl_actions.amx'...
+[01:32:56]   Loading filterscript 'random/gl_chat.amx'...
+[01:32:56]   Loaded 2 filterscripts.
+
+[01:32:56] 
+----------------------------------
+[01:32:56]  Gamemode by hellonishad.com
+[01:32:56] ----------------------------------
+
+[01:32:56] Number of vehicle models: 0
+[01:35:13] [connection] 127.0.0.1:64212 requests connection cookie.
+[01:35:14] [connection] incoming connection: 127.0.0.1:64212 id: 0
+[01:35:14] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:40:25] --- Server Shutting Down.
+[01:40:25] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:40:29] 
+[01:40:29] Server Plugins
+[01:40:29] --------------
+[01:40:29]  Loaded 0 plugins.
+
+[01:40:29] 
+[01:40:29] Filterscripts
+[01:40:29] ---------------
+[01:40:29]   Loading filterscript 'random/gl_actions.amx'...
+[01:40:29]   Loading filterscript 'random/gl_chat.amx'...
+[01:40:29]   Loaded 2 filterscripts.
+
+[01:40:29] 
+----------------------------------
+[01:40:29]  Gamemode by hellonishad.com
+[01:40:29] ----------------------------------
+
+[01:40:29] Number of vehicle models: 0
+[01:40:32] [connection] 127.0.0.1:52585 requests connection cookie.
+[01:40:33] [connection] incoming connection: 127.0.0.1:52585 id: 0
+[01:40:33] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:41:16] --- Server Shutting Down.
+[01:41:16] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:41:17] 
+[01:41:17] Server Plugins
+[01:41:17] --------------
+[01:41:17]  Loaded 0 plugins.
+
+[01:41:17] 
+[01:41:17] Filterscripts
+[01:41:17] ---------------
+[01:41:17]   Loading filterscript 'random/gl_actions.amx'...
+[01:41:17]   Loading filterscript 'random/gl_chat.amx'...
+[01:41:17]   Loaded 2 filterscripts.
+
+[01:41:17] 
+----------------------------------
+[01:41:17]  Gamemode by hellonishad.com
+[01:41:17] ----------------------------------
+
+[01:41:17] Number of vehicle models: 0
+[01:41:20] [connection] 127.0.0.1:64439 requests connection cookie.
+[01:41:21] [connection] incoming connection: 127.0.0.1:64439 id: 0
+[01:41:22] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:43:08] [connection] 192.168.1.110:46482 requests connection cookie.
+[01:43:09] [connection] incoming connection: 192.168.1.110:46482 id: 1
+[01:43:10] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+Console input: loadfs random/adminspec
+[01:43:56]   Filterscript 'random/adminspec.amx' loaded.
+[01:44:14] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[01:47:23] RCON (In-Game): Player [Nisad_Rahman] sent command: loadfs random/vspawner
+[01:47:23] 
+--Admin Vehicle Spawner Loaded
+
+[01:47:23]   Filterscript 'random/vspawner.amx' loaded.
+[01:48:51] --- Server Shutting Down.
+[01:48:51] [part] Nisad_Rahman has left the server (0:0)
+[01:48:51] [part] Nick_Jonas has left the server (1:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:48:52] 
+[01:48:52] Server Plugins
+[01:48:52] --------------
+[01:48:52]  Loaded 0 plugins.
+
+[01:48:52] 
+[01:48:52] Filterscripts
+[01:48:52] ---------------
+[01:48:52]   Loading filterscript 'random/gl_actions.amx'...
+[01:48:52]   Loading filterscript 'random/gl_chat.amx'...
+[01:48:52]   Loaded 2 filterscripts.
+
+[01:48:52] 
+----------------------------------
+[01:48:52]  Gamemode by hellonishad.com
+[01:48:52] ----------------------------------
+
+[01:48:52] Number of vehicle models: 1
+[01:48:57] [connection] 127.0.0.1:57564 requests connection cookie.
+[01:48:58] [connection] incoming connection: 127.0.0.1:57564 id: 0
+[01:48:58] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:49:30] [connection] 192.168.1.110:46275 requests connection cookie.
+[01:49:31] [connection] incoming connection: 192.168.1.110:46275 id: 1
+[01:49:32] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[01:49:57] [part] Nisad_Rahman has left the server (0:1)
+[01:49:57] [connection] incoming connection: 127.0.0.1:56376 id: 0
+[01:49:57] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:50:10] [part] Nisad_Rahman has left the server (0:1)
+[01:50:17] [connection] 127.0.0.1:56379 requests connection cookie.
+[01:50:18] [connection] incoming connection: 127.0.0.1:56379 id: 0
+[01:50:18] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:51:19] RCON (In-Game): Player #0 (Nisad_Rahman) failed login.
+[01:51:25] RCON (In-Game): Player #0 (Nisad_Rahman) failed login.
+[01:51:27] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[01:51:34] RCON (In-Game): Player [Nisad_Rahman] sent command: loadfs random/vspawner
+[01:51:34] 
+--Admin Vehicle Spawner Loaded
+
+[01:51:34]   Filterscript 'random/vspawner.amx' loaded.
+[01:53:07] [part] Nick_Jonas has left the server (1:0)
+[01:53:37] --- Server Shutting Down.
+[01:53:37] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:53:38] 
+[01:53:38] Server Plugins
+[01:53:38] --------------
+[01:53:38]  Loaded 0 plugins.
+
+[01:53:38] 
+[01:53:38] Filterscripts
+[01:53:38] ---------------
+[01:53:38]   Loading filterscript 'random/gl_actions.amx'...
+[01:53:38]   Loading filterscript 'random/gl_chat.amx'...
+[01:53:38]   Loaded 2 filterscripts.
+
+[01:53:38] 
+----------------------------------
+[01:53:38]  Gamemode by hellonishad.com
+[01:53:38] ----------------------------------
+
+[01:53:38] Number of vehicle models: 1
+[01:53:41] [connection] 127.0.0.1:59028 requests connection cookie.
+[01:53:42] [connection] incoming connection: 127.0.0.1:59028 id: 0
+[01:53:42] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[01:54:10] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[01:54:38] RCON (In-Game): Player [Nisad_Rahman] sent command: loadfs random/vspawner
+[01:54:39] 
+--Admin Vehicle Spawner Loaded
+
+[01:54:39]   Filterscript 'random/vspawner.amx' loaded.
+[02:02:56] --- Server Shutting Down.
+[02:02:56] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:02:57] 
+[02:02:57] Server Plugins
+[02:02:57] --------------
+[02:02:57]  Loaded 0 plugins.
+
+[02:02:57] 
+[02:02:57] Filterscripts
+[02:02:57] ---------------
+[02:02:57]   Loading filterscript 'random/gl_actions.amx'...
+[02:02:57]   Loading filterscript 'random/gl_chat.amx'...
+[02:02:57]   Loading filterscript 'random/vspawner.amx'...
+[02:02:57] 
+--Admin Vehicle Spawner Loaded
+
+[02:02:57]   Loaded 3 filterscripts.
+
+[02:02:57] 
+----------------------------------
+[02:02:57]  Gamemode by hellonishad.com
+[02:02:57] ----------------------------------
+
+[02:02:57] Number of vehicle models: 1
+[02:03:04] [connection] 127.0.0.1:55018 requests connection cookie.
+[02:03:05] [connection] incoming connection: 127.0.0.1:55018 id: 0
+[02:03:05] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:03:57] --- Server Shutting Down.
+[02:03:57] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:03:58] 
+[02:03:58] Server Plugins
+[02:03:58] --------------
+[02:03:58]  Loaded 0 plugins.
+
+[02:03:58] 
+[02:03:58] Filterscripts
+[02:03:58] ---------------
+[02:03:58]   Loading filterscript 'random/gl_actions.amx'...
+[02:03:58]   Loading filterscript 'random/gl_chat.amx'...
+[02:03:58]   Loading filterscript 'random/vspawner.amx'...
+[02:03:58] 
+--Admin Vehicle Spawner Loaded
+
+[02:03:58]   Loaded 3 filterscripts.
+
+[02:03:58] 
+----------------------------------
+[02:03:58]  Gamemode by hellonishad.com
+[02:03:58] ----------------------------------
+
+[02:03:58] Number of vehicle models: 1
+[02:04:04] [connection] 127.0.0.1:50827 requests connection cookie.
+[02:04:05] [connection] incoming connection: 127.0.0.1:50827 id: 0
+[02:04:06] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:06:08] --- Server Shutting Down.
+[02:06:08] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:06:08] 
+[02:06:08] Server Plugins
+[02:06:08] --------------
+[02:06:08]  Loaded 0 plugins.
+
+[02:06:09] 
+[02:06:09] Filterscripts
+[02:06:09] ---------------
+[02:06:09]   Loading filterscript 'random/gl_actions.amx'...
+[02:06:09]   Loading filterscript 'random/gl_chat.amx'...
+[02:06:09]   Loading filterscript 'random/vspawner.amx'...
+[02:06:09] 
+--Admin Vehicle Spawner Loaded
+
+[02:06:09]   Loaded 3 filterscripts.
+
+[02:06:09] 
+----------------------------------
+[02:06:09]  Gamemode by hellonishad.com
+[02:06:09] ----------------------------------
+
+[02:06:09] Number of vehicle models: 1
+[02:06:12] [connection] 127.0.0.1:54114 requests connection cookie.
+[02:06:13] [connection] incoming connection: 127.0.0.1:54114 id: 0
+[02:06:14] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:08:14] --- Server Shutting Down.
+[02:08:14] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:08:14] 
+[02:08:14] Server Plugins
+[02:08:14] --------------
+[02:08:14]  Loaded 0 plugins.
+
+[02:08:14] 
+[02:08:14] Filterscripts
+[02:08:14] ---------------
+[02:08:14]   Loading filterscript 'random/gl_actions.amx'...
+[02:08:14]   Loading filterscript 'random/gl_chat.amx'...
+[02:08:14]   Loading filterscript 'random/vspawner.amx'...
+[02:08:14] 
+--Admin Vehicle Spawner Loaded
+
+[02:08:14]   Loaded 3 filterscripts.
+
+[02:08:14] 
+----------------------------------
+[02:08:14]  Gamemode by hellonishad.com
+[02:08:14] ----------------------------------
+
+[02:08:14] Number of vehicle models: 1
+[02:08:18] [connection] 127.0.0.1:55806 requests connection cookie.
+[02:08:19] [connection] incoming connection: 127.0.0.1:55806 id: 0
+[02:08:25] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:08:30] [part] Nisad_Rahman has left the server (0:1)
+[02:08:30] [connection] incoming connection: 127.0.0.1:55807 id: 0
+[02:08:31] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:08:44] [part] Nisad_Rahman has left the server (0:1)
+[02:08:45] [connection] incoming connection: 127.0.0.1:55808 id: 0
+[02:08:45] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:08:53] [part] Nisad_Rahman has left the server (0:1)
+[02:08:54] [connection] incoming connection: 127.0.0.1:55809 id: 0
+[02:08:54] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:10:31] --- Server Shutting Down.
+[02:10:31] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:10:32] 
+[02:10:32] Server Plugins
+[02:10:32] --------------
+[02:10:32]  Loaded 0 plugins.
+
+[02:10:32] 
+[02:10:32] Filterscripts
+[02:10:32] ---------------
+[02:10:32]   Loading filterscript 'random/gl_actions.amx'...
+[02:10:32]   Loading filterscript 'random/gl_chat.amx'...
+[02:10:32]   Loading filterscript 'random/vspawner.amx'...
+[02:10:32] 
+--Admin Vehicle Spawner Loaded
+
+[02:10:32]   Loaded 3 filterscripts.
+
+[02:10:32] 
+----------------------------------
+[02:10:32]  Gamemode by hellonishad.com
+[02:10:32] ----------------------------------
+
+[02:10:32] Number of vehicle models: 1
+[02:10:35] [connection] 127.0.0.1:63899 requests connection cookie.
+[02:10:36] [connection] incoming connection: 127.0.0.1:63899 id: 0
+[02:10:36] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:11:09] [part] Nisad_Rahman has left the server (0:1)
+[02:11:09] [connection] incoming connection: 127.0.0.1:49953 id: 0
+[02:11:09] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:12:12] --- Server Shutting Down.
+[02:12:12] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:12:12] 
+[02:12:12] Server Plugins
+[02:12:12] --------------
+[02:12:12]  Loaded 0 plugins.
+
+[02:12:12] 
+[02:12:12] Filterscripts
+[02:12:12] ---------------
+[02:12:12]   Loading filterscript 'random/gl_actions.amx'...
+[02:12:12]   Loading filterscript 'random/gl_chat.amx'...
+[02:12:12]   Loading filterscript 'random/vspawner.amx'...
+[02:12:12] 
+--Admin Vehicle Spawner Loaded
+
+[02:12:12]   Loaded 3 filterscripts.
+
+[02:12:12] 
+----------------------------------
+[02:12:12]  Gamemode by hellonishad.com
+[02:12:12] ----------------------------------
+
+[02:12:12] Number of vehicle models: 1
+[02:12:15] [connection] 127.0.0.1:56030 requests connection cookie.
+[02:12:16] [connection] incoming connection: 127.0.0.1:56030 id: 0
+[02:12:17] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:15:46] --- Server Shutting Down.
+[02:15:46] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:15:46] 
+[02:15:46] Server Plugins
+[02:15:46] --------------
+[02:15:46]  Loaded 0 plugins.
+
+[02:15:46] 
+[02:15:46] Filterscripts
+[02:15:46] ---------------
+[02:15:46]   Loading filterscript 'random/gl_actions.amx'...
+[02:15:46]   Loading filterscript 'random/gl_chat.amx'...
+[02:15:46]   Loading filterscript 'random/vspawner.amx'...
+[02:15:46] 
+--Admin Vehicle Spawner Loaded
+
+[02:15:46]   Loaded 3 filterscripts.
+
+[02:15:46] 
+----------------------------------
+[02:15:46]  Gamemode by hellonishad.com
+[02:15:46] ----------------------------------
+
+[02:15:46] Number of vehicle models: 1
+[02:15:50] [connection] 127.0.0.1:54488 requests connection cookie.
+[02:15:51] [connection] incoming connection: 127.0.0.1:54488 id: 0
+[02:15:51] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:23:00] --- Server Shutting Down.
+[02:23:00] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:23:01] 
+[02:23:01] Server Plugins
+[02:23:01] --------------
+[02:23:01]  Loaded 0 plugins.
+
+[02:23:01] 
+[02:23:01] Filterscripts
+[02:23:01] ---------------
+[02:23:01]   Loading filterscript 'random/gl_actions.amx'...
+[02:23:01]   Loading filterscript 'random/gl_chat.amx'...
+[02:23:01]   Loading filterscript 'random/vspawner.amx'...
+[02:23:01] 
+--Admin Vehicle Spawner Loaded
+
+[02:23:01]   Loaded 3 filterscripts.
+
+[02:23:01] 
+----------------------------------
+[02:23:01]  Gamemode by hellonishad.com
+[02:23:01] ----------------------------------
+
+[02:23:01] Number of vehicle models: 1
+[02:23:06] [connection] 127.0.0.1:64608 requests connection cookie.
+[02:23:07] [connection] incoming connection: 127.0.0.1:64608 id: 0
+[02:23:08] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:24:19] --- Server Shutting Down.
+[02:24:19] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:24:20] 
+[02:24:20] Server Plugins
+[02:24:20] --------------
+[02:24:20]  Loaded 0 plugins.
+
+[02:24:20] 
+[02:24:20] Filterscripts
+[02:24:20] ---------------
+[02:24:20]   Loading filterscript 'random/gl_actions.amx'...
+[02:24:20]   Loading filterscript 'random/gl_chat.amx'...
+[02:24:20]   Loading filterscript 'random/vspawner.amx'...
+[02:24:20] 
+--Admin Vehicle Spawner Loaded
+
+[02:24:20]   Loaded 3 filterscripts.
+
+[02:24:20] 
+----------------------------------
+[02:24:20]  Gamemode by hellonishad.com
+[02:24:20] ----------------------------------
+
+[02:24:20] Number of vehicle models: 1
+[02:24:33] [connection] 127.0.0.1:55324 requests connection cookie.
+[02:24:34] [connection] incoming connection: 127.0.0.1:55324 id: 0
+[02:24:34] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:25:39] --- Server Shutting Down.
+[02:25:39] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:25:47] 
+[02:25:47] Server Plugins
+[02:25:47] --------------
+[02:25:47]  Loaded 0 plugins.
+
+[02:25:47] 
+[02:25:47] Filterscripts
+[02:25:47] ---------------
+[02:25:47]   Loading filterscript 'random/gl_actions.amx'...
+[02:25:47]   Loading filterscript 'random/gl_chat.amx'...
+[02:25:47]   Loading filterscript 'random/vspawner.amx'...
+[02:25:47] 
+--Admin Vehicle Spawner Loaded
+
+[02:25:47]   Loaded 3 filterscripts.
+
+[02:25:47] 
+----------------------------------
+[02:25:47]  Gamemode by hellonishad.com
+[02:25:47] ----------------------------------
+
+[02:25:47] Number of vehicle models: 1
+[02:25:51] [connection] 127.0.0.1:57939 requests connection cookie.
+[02:25:52] [connection] incoming connection: 127.0.0.1:57939 id: 0
+[02:25:52] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+Console input: say {FF0000} Hello {000000} Hi
+Console input: say {FF0000} Hello {000000} Hi {FFFFFF} Bye Bye
+[02:28:33] --- Server Shutting Down.
+[02:28:33] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:28:34] 
+[02:28:34] Server Plugins
+[02:28:34] --------------
+[02:28:34]  Loaded 0 plugins.
+
+[02:28:34] 
+[02:28:34] Filterscripts
+[02:28:34] ---------------
+[02:28:34]   Loading filterscript 'random/gl_actions.amx'...
+[02:28:34]   Loading filterscript 'random/gl_chat.amx'...
+[02:28:34]   Loading filterscript 'random/vspawner.amx'...
+[02:28:34] 
+--Admin Vehicle Spawner Loaded
+
+[02:28:34]   Loaded 3 filterscripts.
+
+[02:28:34] 
+----------------------------------
+[02:28:34]  Gamemode by hellonishad.com
+[02:28:34] ----------------------------------
+
+[02:28:34] Number of vehicle models: 1
+[02:28:37] [connection] 127.0.0.1:54583 requests connection cookie.
+[02:28:38] [connection] incoming connection: 127.0.0.1:54583 id: 0
+[02:28:38] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:36:46] --- Server Shutting Down.
+[02:36:46] [part] Nisad_Rahman has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:37:16] 
+[02:37:16] Server Plugins
+[02:37:16] --------------
+[02:37:16]  Loaded 0 plugins.
+
+[02:37:16] 
+[02:37:16] Filterscripts
+[02:37:16] ---------------
+[02:37:16]   Loading filterscript 'random/gl_actions.amx'...
+[02:37:16]   Loading filterscript 'random/gl_chat.amx'...
+[02:37:16]   Loading filterscript 'random/vspawner.amx'...
+[02:37:16] 
+--Admin Vehicle Spawner Loaded
+
+[02:37:16]   Loaded 3 filterscripts.
+
+[02:37:16] Script[gamemodes/mode.amx]: Run time error 19: "File or function is not found"
+[02:37:16] Number of vehicle models: 0
+[02:39:03] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:39:04] 
+[02:39:04] Server Plugins
+[02:39:04] --------------
+[02:39:04]  Loaded 0 plugins.
+
+[02:39:04] 
+[02:39:04] Filterscripts
+[02:39:04] ---------------
+[02:39:04]   Loading filterscript 'random/gl_actions.amx'...
+[02:39:04]   Loading filterscript 'random/gl_chat.amx'...
+[02:39:04]   Loading filterscript 'random/vspawner.amx'...
+[02:39:04] 
+--Admin Vehicle Spawner Loaded
+
+[02:39:04]   Loaded 3 filterscripts.
+
+[02:39:04] Script[gamemodes/mode.amx]: Run time error 19: "File or function is not found"
+[02:39:04] Number of vehicle models: 0
+[02:40:16] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:40:16] 
+[02:40:16] Server Plugins
+[02:40:16] --------------
+[02:40:16]  Loaded 0 plugins.
+
+[02:40:16] 
+[02:40:16] Filterscripts
+[02:40:16] ---------------
+[02:40:16]   Loading filterscript 'random/gl_actions.amx'...
+[02:40:16]   Loading filterscript 'random/gl_chat.amx'...
+[02:40:16]   Loading filterscript 'random/vspawner.amx'...
+[02:40:16] 
+--Admin Vehicle Spawner Loaded
+
+[02:40:16]   Loaded 3 filterscripts.
+
+[02:40:16] Script[gamemodes/mode.amx]: Run time error 19: "File or function is not found"
+[02:40:16] Number of vehicle models: 0
+[02:42:27] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:42:27] 
+[02:42:27] Server Plugins
+[02:42:27] --------------
+[02:42:27]  Loaded 0 plugins.
+
+[02:42:27] 
+[02:42:27] Filterscripts
+[02:42:27] ---------------
+[02:42:27]   Loading filterscript 'random/gl_actions.amx'...
+[02:42:27]   Loading filterscript 'random/gl_chat.amx'...
+[02:42:27]   Loading filterscript 'random/vspawner.amx'...
+[02:42:27] 
+--Admin Vehicle Spawner Loaded
+
+[02:42:27]   Loaded 3 filterscripts.
+
+[02:42:27] Script[gamemodes/mode.amx]: Run time error 19: "File or function is not found"
+[02:42:27] Number of vehicle models: 0
+[02:43:07] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:43:08] 
+[02:43:08] Server Plugins
+[02:43:08] --------------
+[02:43:08]  Loaded 0 plugins.
+
+[02:43:08] 
+[02:43:08] Filterscripts
+[02:43:08] ---------------
+[02:43:08]   Loading filterscript 'random/gl_actions.amx'...
+[02:43:08]   Loading filterscript 'random/gl_chat.amx'...
+[02:43:08]   Loading filterscript 'random/vspawner.amx'...
+[02:43:08] 
+--Admin Vehicle Spawner Loaded
+
+[02:43:08]   Loaded 3 filterscripts.
+
+[02:43:08] Script[gamemodes/mode.amx]: Run time error 19: "File or function is not found"
+[02:43:08] Number of vehicle models: 0
+[02:43:19] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:43:20] 
+[02:43:20] Server Plugins
+[02:43:20] --------------
+[02:43:20]  Loaded 0 plugins.
+
+[02:43:20] 
+[02:43:20] Filterscripts
+[02:43:20] ---------------
+[02:43:20]   Loading filterscript 'random/gl_actions.amx'...
+[02:43:20]   Loading filterscript 'random/gl_chat.amx'...
+[02:43:20]   Loading filterscript 'random/vspawner.amx'...
+[02:43:20] 
+--Admin Vehicle Spawner Loaded
+
+[02:43:20]   Loaded 3 filterscripts.
+
+[02:43:20] Script[gamemodes/mode.amx]: Run time error 19: "File or function is not found"
+[02:43:20] Number of vehicle models: 0
+[02:44:24] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:44:25] 
+[02:44:25] Server Plugins
+[02:44:25] --------------
+[02:44:25]  Loading plugin: sscanf
+[02:44:25] 
+
+[02:44:25]  ===============================
+
+[02:44:25]       sscanf plugin loaded.     
+
+[02:44:25]          Version:  2.8.3        
+
+[02:44:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:44:25]  ===============================
+
+[02:44:25]   Loaded.
+[02:44:25]  Loaded 1 plugins.
+
+[02:44:25] 
+[02:44:25] Filterscripts
+[02:44:25] ---------------
+[02:44:25]   Loading filterscript 'random/gl_actions.amx'...
+[02:44:25]   Loading filterscript 'random/gl_chat.amx'...
+[02:44:25]   Loading filterscript 'random/vspawner.amx'...
+[02:44:25] 
+--Admin Vehicle Spawner Loaded
+
+[02:44:25]   Loaded 3 filterscripts.
+
+[02:44:25] 
+----------------------------------
+[02:44:25]  Gamemode by hellonishad.com
+[02:44:25] ----------------------------------
+
+[02:44:25] Number of vehicle models: 1
+[02:44:31] [connection] 127.0.0.1:55766 requests connection cookie.
+[02:44:32] [connection] incoming connection: 127.0.0.1:55766 id: 0
+[02:44:32] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:45:22] --- Server Shutting Down.
+[02:45:22] [part] Nisad_Rahman has left the server (0:0)
+[02:45:22] 
+
+[02:45:22]  ===============================
+
+[02:45:22]      sscanf plugin unloaded.    
+
+[02:45:22]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:45:23] 
+[02:45:23] Server Plugins
+[02:45:23] --------------
+[02:45:23]  Loading plugin: sscanf
+[02:45:23] 
+
+[02:45:23]  ===============================
+
+[02:45:23]       sscanf plugin loaded.     
+
+[02:45:23]          Version:  2.8.3        
+
+[02:45:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:45:23]  ===============================
+
+[02:45:23]   Loaded.
+[02:45:23]  Loaded 1 plugins.
+
+[02:45:23] 
+[02:45:23] Filterscripts
+[02:45:23] ---------------
+[02:45:23]   Loading filterscript 'random/gl_actions.amx'...
+[02:45:23]   Loading filterscript 'random/gl_chat.amx'...
+[02:45:23]   Loading filterscript 'random/vspawner.amx'...
+[02:45:23] 
+--Admin Vehicle Spawner Loaded
+
+[02:45:23]   Loaded 3 filterscripts.
+
+[02:45:23] 
+----------------------------------
+[02:45:23]  Gamemode by hellonishad.com
+[02:45:23] ----------------------------------
+
+[02:45:23] Number of vehicle models: 1
+[02:46:10] --- Server Shutting Down.
+[02:46:10] 
+
+[02:46:10]  ===============================
+
+[02:46:10]      sscanf plugin unloaded.    
+
+[02:46:10]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:46:49] 
+[02:46:49] Server Plugins
+[02:46:49] --------------
+[02:46:49]  Loading plugin: sscanf
+[02:46:49] 
+
+[02:46:49]  ===============================
+
+[02:46:49]       sscanf plugin loaded.     
+
+[02:46:49]          Version:  2.8.3        
+
+[02:46:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:46:49]  ===============================
+
+[02:46:49]   Loaded.
+[02:46:49]  Loaded 1 plugins.
+
+[02:46:49] 
+[02:46:49] Filterscripts
+[02:46:49] ---------------
+[02:46:49]   Loading filterscript 'random/gl_actions.amx'...
+[02:46:49]   Loading filterscript 'random/gl_chat.amx'...
+[02:46:49]   Loading filterscript 'random/vspawner.amx'...
+[02:46:49] 
+--Admin Vehicle Spawner Loaded
+
+[02:46:49]   Loaded 3 filterscripts.
+
+[02:46:49] 
+----------------------------------
+[02:46:49]  Gamemode by hellonishad.com
+[02:46:49] ----------------------------------
+
+[02:46:49] Number of vehicle models: 1
+[02:46:52] [connection] 127.0.0.1:62552 requests connection cookie.
+[02:46:53] [connection] incoming connection: 127.0.0.1:62552 id: 0
+[02:46:54] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:49:36] --- Server Shutting Down.
+[02:49:36] [part] Nisad_Rahman has left the server (0:0)
+[02:49:36] 
+
+[02:49:36]  ===============================
+
+[02:49:36]      sscanf plugin unloaded.    
+
+[02:49:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:51:30] 
+[02:51:30] Server Plugins
+[02:51:30] --------------
+[02:51:30]  Loading plugin: sscanf
+[02:51:30] 
+
+[02:51:30]  ===============================
+
+[02:51:30]       sscanf plugin loaded.     
+
+[02:51:30]          Version:  2.8.3        
+
+[02:51:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:51:30]  ===============================
+
+[02:51:30]   Loaded.
+[02:51:30]  Loaded 1 plugins.
+
+[02:51:30] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:51:30] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:51:46] 
+[02:51:46] Server Plugins
+[02:51:46] --------------
+[02:51:46]  Loading plugin: sscanf
+[02:51:46] 
+
+[02:51:46]  ===============================
+
+[02:51:46]       sscanf plugin loaded.     
+
+[02:51:46]          Version:  2.8.3        
+
+[02:51:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:51:46]  ===============================
+
+[02:51:46]   Loaded.
+[02:51:46]  Loaded 1 plugins.
+
+[02:51:46] 
+[02:51:46] Filterscripts
+[02:51:46] ---------------
+[02:51:46]   Loading filterscript 'random/gl_actions.amx'...
+[02:51:46]   Loading filterscript 'random/gl_chat.amx'...
+[02:51:46]   Loading filterscript 'random/vspawner.amx'...
+[02:51:46] 
+--Admin Vehicle Spawner Loaded
+
+[02:51:46]   Loaded 3 filterscripts.
+
+[02:51:46] 
+----------------------------------
+[02:51:46]  Gamemode by hellonishad.com
+[02:51:46] ----------------------------------
+
+[02:51:46] Number of vehicle models: 1
+[02:51:50] [connection] 127.0.0.1:53513 requests connection cookie.
+[02:51:51] [connection] incoming connection: 127.0.0.1:53513 id: 0
+[02:51:51] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:52:13] --- Server Shutting Down.
+[02:52:13] [part] Nisad_Rahman has left the server (0:0)
+[02:52:13] 
+
+[02:52:13]  ===============================
+
+[02:52:13]      sscanf plugin unloaded.    
+
+[02:52:13]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:52:20] 
+[02:52:20] Server Plugins
+[02:52:20] --------------
+[02:52:20]  Loading plugin: sscanf
+[02:52:20] 
+
+[02:52:20]  ===============================
+
+[02:52:20]       sscanf plugin loaded.     
+
+[02:52:20]          Version:  2.8.3        
+
+[02:52:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:52:20]  ===============================
+
+[02:52:20]   Loaded.
+[02:52:20]  Loaded 1 plugins.
+
+[02:52:20] 
+[02:52:20] Filterscripts
+[02:52:20] ---------------
+[02:52:20]   Loading filterscript 'random/gl_actions.amx'...
+[02:52:20]   Loading filterscript 'random/gl_chat.amx'...
+[02:52:20]   Loading filterscript 'random/vspawner.amx'...
+[02:52:20] 
+--Admin Vehicle Spawner Loaded
+
+[02:52:20]   Loaded 3 filterscripts.
+
+[02:52:20] 
+----------------------------------
+[02:52:20]  Gamemode by hellonishad.com
+[02:52:20] ----------------------------------
+
+[02:52:20] Number of vehicle models: 1
+[02:52:23] [connection] 127.0.0.1:59959 requests connection cookie.
+[02:52:24] [connection] incoming connection: 127.0.0.1:59959 id: 0
+[02:52:25] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:54:35] --- Server Shutting Down.
+[02:54:35] [part] Nisad_Rahman has left the server (0:0)
+[02:54:35] 
+
+[02:54:35]  ===============================
+
+[02:54:35]      sscanf plugin unloaded.    
+
+[02:54:35]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:54:35] 
+[02:54:35] Server Plugins
+[02:54:35] --------------
+[02:54:35]  Loading plugin: sscanf
+[02:54:35] 
+
+[02:54:35]  ===============================
+
+[02:54:35]       sscanf plugin loaded.     
+
+[02:54:35]          Version:  2.8.3        
+
+[02:54:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:54:35]  ===============================
+
+[02:54:35]   Loaded.
+[02:54:35]  Loaded 1 plugins.
+
+[02:54:35] 
+[02:54:35] Filterscripts
+[02:54:35] ---------------
+[02:54:35]   Loading filterscript 'random/gl_actions.amx'...
+[02:54:35]   Loading filterscript 'random/gl_chat.amx'...
+[02:54:35]   Loading filterscript 'random/vspawner.amx'...
+[02:54:35] 
+--Admin Vehicle Spawner Loaded
+
+[02:54:35]   Loaded 3 filterscripts.
+
+[02:54:35] 
+----------------------------------
+[02:54:35]  Gamemode by hellonishad.com
+[02:54:35] ----------------------------------
+
+[02:54:35] Number of vehicle models: 1
+[02:54:39] [connection] 127.0.0.1:56071 requests connection cookie.
+[02:54:40] [connection] incoming connection: 127.0.0.1:56071 id: 0
+[02:54:40] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[02:55:04] --- Server Shutting Down.
+[02:55:04] [part] Nisad_Rahman has left the server (0:0)
+[02:55:04] 
+
+[02:55:04]  ===============================
+
+[02:55:04]      sscanf plugin unloaded.    
+
+[02:55:04]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:55:11] 
+[02:55:11] Server Plugins
+[02:55:11] --------------
+[02:55:11]  Loading plugin: sscanf
+[02:55:11] 
+
+[02:55:11]  ===============================
+
+[02:55:11]       sscanf plugin loaded.     
+
+[02:55:11]          Version:  2.8.3        
+
+[02:55:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:55:11]  ===============================
+
+[02:55:11]   Loaded.
+[02:55:11]  Loaded 1 plugins.
+
+[02:55:11] 
+[02:55:11] Filterscripts
+[02:55:11] ---------------
+[02:55:11]   Loading filterscript 'random/gl_actions.amx'...
+[02:55:11]   Loading filterscript 'random/gl_chat.amx'...
+[02:55:11]   Loading filterscript 'random/vspawner.amx'...
+[02:55:11] 
+--Admin Vehicle Spawner Loaded
+
+[02:55:11]   Loaded 3 filterscripts.
+
+[02:55:11] 
+----------------------------------
+[02:55:11]  Gamemode by hellonishad.com
+[02:55:11] ----------------------------------
+
+[02:55:11] Number of vehicle models: 1
+[02:55:14] [connection] 127.0.0.1:50409 requests connection cookie.
+[02:55:15] [connection] incoming connection: 127.0.0.1:50409 id: 0
+[02:55:15] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:04:14] --- Server Shutting Down.
+[03:04:14] [part] Nisad_Rahman has left the server (0:0)
+[03:04:14] 
+
+[03:04:14]  ===============================
+
+[03:04:14]      sscanf plugin unloaded.    
+
+[03:04:14]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:07:15] 
+[03:07:15] Server Plugins
+[03:07:15] --------------
+[03:07:15]  Loading plugin: sscanf
+[03:07:15] 
+
+[03:07:15]  ===============================
+
+[03:07:15]       sscanf plugin loaded.     
+
+[03:07:15]          Version:  2.8.3        
+
+[03:07:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:07:15]  ===============================
+
+[03:07:15]   Loaded.
+[03:07:15]  Loaded 1 plugins.
+
+[03:07:15] 
+[03:07:15] Filterscripts
+[03:07:15] ---------------
+[03:07:15]   Loading filterscript 'random/gl_actions.amx'...
+[03:07:15]   Loading filterscript 'random/gl_chat.amx'...
+[03:07:15]   Loading filterscript 'random/vspawner.amx'...
+[03:07:15] 
+--Admin Vehicle Spawner Loaded
+
+[03:07:15]   Loaded 3 filterscripts.
+
+[03:07:15] 
+----------------------------------
+[03:07:15]  Gamemode by hellonishad.com
+[03:07:15] ----------------------------------
+
+[03:07:15] Number of vehicle models: 1
+[03:07:26] [connection] 127.0.0.1:57644 requests connection cookie.
+[03:07:27] [connection] incoming connection: 127.0.0.1:57644 id: 0
+[03:07:27] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:09:27] --- Server Shutting Down.
+[03:09:27] [part] Nisad_Rahman has left the server (0:0)
+[03:09:28] 
+
+[03:09:28]  ===============================
+
+[03:09:28]      sscanf plugin unloaded.    
+
+[03:09:28]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:09:36] 
+[03:09:36] Server Plugins
+[03:09:36] --------------
+[03:09:36]  Loading plugin: sscanf
+[03:09:36] 
+
+[03:09:36]  ===============================
+
+[03:09:36]       sscanf plugin loaded.     
+
+[03:09:36]          Version:  2.8.3        
+
+[03:09:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:09:36]  ===============================
+
+[03:09:36]   Loaded.
+[03:09:36]  Loaded 1 plugins.
+
+[03:09:36] 
+[03:09:36] Filterscripts
+[03:09:36] ---------------
+[03:09:36]   Loading filterscript 'random/gl_actions.amx'...
+[03:09:36]   Loading filterscript 'random/gl_chat.amx'...
+[03:09:36]   Loading filterscript 'random/vspawner.amx'...
+[03:09:36] 
+--Admin Vehicle Spawner Loaded
+
+[03:09:36]   Loaded 3 filterscripts.
+
+[03:09:36] 
+----------------------------------
+[03:09:36]  Gamemode by hellonishad.com
+[03:09:36] ----------------------------------
+
+[03:09:36] Number of vehicle models: 1
+[03:09:39] [connection] 127.0.0.1:50819 requests connection cookie.
+[03:09:41] [connection] incoming connection: 127.0.0.1:50819 id: 0
+[03:09:41] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:11:17] --- Server Shutting Down.
+[03:11:17] [part] Nisad_Rahman has left the server (0:0)
+[03:11:17] 
+
+[03:11:17]  ===============================
+
+[03:11:17]      sscanf plugin unloaded.    
+
+[03:11:17]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:11:18] 
+[03:11:18] Server Plugins
+[03:11:18] --------------
+[03:11:18]  Loading plugin: sscanf
+[03:11:18] 
+
+[03:11:18]  ===============================
+
+[03:11:18]       sscanf plugin loaded.     
+
+[03:11:18]          Version:  2.8.3        
+
+[03:11:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:11:18]  ===============================
+
+[03:11:18]   Loaded.
+[03:11:18]  Loaded 1 plugins.
+
+[03:11:18] 
+[03:11:18] Filterscripts
+[03:11:18] ---------------
+[03:11:18]   Loading filterscript 'random/gl_actions.amx'...
+[03:11:18]   Loading filterscript 'random/gl_chat.amx'...
+[03:11:18]   Loading filterscript 'random/vspawner.amx'...
+[03:11:18] 
+--Admin Vehicle Spawner Loaded
+
+[03:11:18]   Loaded 3 filterscripts.
+
+[03:11:18] 
+----------------------------------
+[03:11:18]  Gamemode by hellonishad.com
+[03:11:18] ----------------------------------
+
+[03:11:18] Number of vehicle models: 1
+[03:11:25] [connection] 127.0.0.1:55575 requests connection cookie.
+[03:11:26] [connection] incoming connection: 127.0.0.1:55575 id: 0
+[03:11:26] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:12:20] --- Server Shutting Down.
+[03:12:20] [part] Nisad_Rahman has left the server (0:0)
+[03:12:20] 
+
+[03:12:20]  ===============================
+
+[03:12:20]      sscanf plugin unloaded.    
+
+[03:12:20]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:12:29] 
+[03:12:29] Server Plugins
+[03:12:29] --------------
+[03:12:29]  Loading plugin: sscanf
+[03:12:29] 
+
+[03:12:29]  ===============================
+
+[03:12:29]       sscanf plugin loaded.     
+
+[03:12:29]          Version:  2.8.3        
+
+[03:12:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:12:29]  ===============================
+
+[03:12:29]   Loaded.
+[03:12:29]  Loaded 1 plugins.
+
+[03:12:29] 
+[03:12:29] Filterscripts
+[03:12:29] ---------------
+[03:12:29]   Loading filterscript 'random/gl_actions.amx'...
+[03:12:29]   Loading filterscript 'random/gl_chat.amx'...
+[03:12:29]   Loading filterscript 'random/vspawner.amx'...
+[03:12:29] 
+--Admin Vehicle Spawner Loaded
+
+[03:12:29]   Loaded 3 filterscripts.
+
+[03:12:29] 
+----------------------------------
+[03:12:29]  Gamemode by hellonishad.com
+[03:12:29] ----------------------------------
+
+[03:12:29] Number of vehicle models: 1
+[03:12:32] [connection] 127.0.0.1:59122 requests connection cookie.
+[03:12:33] [connection] incoming connection: 127.0.0.1:59122 id: 0
+[03:12:33] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:15:16] --- Server Shutting Down.
+[03:15:16] [part] Nisad_Rahman has left the server (0:0)
+[03:15:16] 
+
+[03:15:16]  ===============================
+
+[03:15:16]      sscanf plugin unloaded.    
+
+[03:15:16]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:15:17] 
+[03:15:17] Server Plugins
+[03:15:17] --------------
+[03:15:17]  Loading plugin: sscanf
+[03:15:17] 
+
+[03:15:17]  ===============================
+
+[03:15:17]       sscanf plugin loaded.     
+
+[03:15:17]          Version:  2.8.3        
+
+[03:15:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:15:17]  ===============================
+
+[03:15:17]   Loaded.
+[03:15:17]  Loaded 1 plugins.
+
+[03:15:17] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:15:17] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:15:25] 
+[03:15:25] Server Plugins
+[03:15:25] --------------
+[03:15:25]  Loading plugin: sscanf
+[03:15:25] 
+
+[03:15:25]  ===============================
+
+[03:15:25]       sscanf plugin loaded.     
+
+[03:15:25]          Version:  2.8.3        
+
+[03:15:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:15:25]  ===============================
+
+[03:15:25]   Loaded.
+[03:15:25]  Loaded 1 plugins.
+
+[03:15:25] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:15:25] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:15:33] 
+[03:15:33] Server Plugins
+[03:15:33] --------------
+[03:15:33]  Loading plugin: sscanf
+[03:15:33] 
+
+[03:15:33]  ===============================
+
+[03:15:33]       sscanf plugin loaded.     
+
+[03:15:33]          Version:  2.8.3        
+
+[03:15:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:15:33]  ===============================
+
+[03:15:33]   Loaded.
+[03:15:33]  Loaded 1 plugins.
+
+[03:15:33] 
+[03:15:33] Filterscripts
+[03:15:33] ---------------
+[03:15:33]   Loading filterscript 'random/gl_actions.amx'...
+[03:15:33]   Loading filterscript 'random/gl_chat.amx'...
+[03:15:33]   Loading filterscript 'random/vspawner.amx'...
+[03:15:33] 
+--Admin Vehicle Spawner Loaded
+
+[03:15:33]   Loaded 3 filterscripts.
+
+[03:15:33] 
+----------------------------------
+[03:15:33]  Gamemode by hellonishad.com
+[03:15:33] ----------------------------------
+
+[03:15:33] Number of vehicle models: 1
+[03:15:36] [connection] 127.0.0.1:53959 requests connection cookie.
+[03:15:37] [connection] incoming connection: 127.0.0.1:53959 id: 0
+[03:15:37] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:15:48] --- Server Shutting Down.
+[03:15:48] [part] Nisad_Rahman has left the server (0:0)
+[03:15:48] 
+
+[03:15:48]  ===============================
+
+[03:15:48]      sscanf plugin unloaded.    
+
+[03:15:48]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:15:54] 
+[03:15:54] Server Plugins
+[03:15:54] --------------
+[03:15:54]  Loading plugin: sscanf
+[03:15:54] 
+
+[03:15:54]  ===============================
+
+[03:15:54]       sscanf plugin loaded.     
+
+[03:15:54]          Version:  2.8.3        
+
+[03:15:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:15:54]  ===============================
+
+[03:15:54]   Loaded.
+[03:15:54]  Loaded 1 plugins.
+
+[03:15:54] 
+[03:15:54] Filterscripts
+[03:15:54] ---------------
+[03:15:54]   Loading filterscript 'random/gl_actions.amx'...
+[03:15:54]   Loading filterscript 'random/gl_chat.amx'...
+[03:15:54]   Loading filterscript 'random/vspawner.amx'...
+[03:15:54] 
+--Admin Vehicle Spawner Loaded
+
+[03:15:54]   Loaded 3 filterscripts.
+
+[03:15:54] 
+----------------------------------
+[03:15:54]  Gamemode by hellonishad.com
+[03:15:54] ----------------------------------
+
+[03:15:54] Number of vehicle models: 1
+[03:15:56] [connection] 127.0.0.1:53961 requests connection cookie.
+[03:15:57] [connection] incoming connection: 127.0.0.1:53961 id: 0
+[03:15:57] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:16:05] --- Server Shutting Down.
+[03:16:05] [part] Nisad_Rahman has left the server (0:0)
+[03:16:05] 
+
+[03:16:05]  ===============================
+
+[03:16:05]      sscanf plugin unloaded.    
+
+[03:16:05]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:16:11] 
+[03:16:11] Server Plugins
+[03:16:11] --------------
+[03:16:11]  Loading plugin: sscanf
+[03:16:11] 
+
+[03:16:11]  ===============================
+
+[03:16:11]       sscanf plugin loaded.     
+
+[03:16:11]          Version:  2.8.3        
+
+[03:16:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:16:11]  ===============================
+
+[03:16:11]   Loaded.
+[03:16:11]  Loaded 1 plugins.
+
+[03:16:11] 
+[03:16:11] Filterscripts
+[03:16:11] ---------------
+[03:16:11]   Loading filterscript 'random/gl_actions.amx'...
+[03:16:11]   Loading filterscript 'random/gl_chat.amx'...
+[03:16:11]   Loading filterscript 'random/vspawner.amx'...
+[03:16:11] 
+--Admin Vehicle Spawner Loaded
+
+[03:16:11]   Loaded 3 filterscripts.
+
+[03:16:11] 
+----------------------------------
+[03:16:11]  Gamemode by hellonishad.com
+[03:16:11] ----------------------------------
+
+[03:16:11] Number of vehicle models: 1
+[03:16:13] [connection] 127.0.0.1:60854 requests connection cookie.
+[03:16:14] [connection] incoming connection: 127.0.0.1:60854 id: 0
+[03:16:14] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:17:07] --- Server Shutting Down.
+[03:17:07] [part] Nisad_Rahman has left the server (0:0)
+[03:17:07] 
+
+[03:17:07]  ===============================
+
+[03:17:07]      sscanf plugin unloaded.    
+
+[03:17:07]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:17:08] 
+[03:17:08] Server Plugins
+[03:17:08] --------------
+[03:17:08]  Loading plugin: sscanf
+[03:17:08] 
+
+[03:17:08]  ===============================
+
+[03:17:08]       sscanf plugin loaded.     
+
+[03:17:08]          Version:  2.8.3        
+
+[03:17:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:17:08]  ===============================
+
+[03:17:08]   Loaded.
+[03:17:08]  Loaded 1 plugins.
+
+[03:17:08] 
+[03:17:08] Filterscripts
+[03:17:08] ---------------
+[03:17:08]   Loading filterscript 'random/gl_actions.amx'...
+[03:17:08]   Loading filterscript 'random/gl_chat.amx'...
+[03:17:08]   Loading filterscript 'random/vspawner.amx'...
+[03:17:08] 
+--Admin Vehicle Spawner Loaded
+
+[03:17:08]   Loaded 3 filterscripts.
+
+[03:17:08] 
+----------------------------------
+[03:17:08]  Gamemode by hellonishad.com
+[03:17:08] ----------------------------------
+
+[03:17:08] Number of vehicle models: 1
+[03:17:10] [connection] 127.0.0.1:52225 requests connection cookie.
+[03:17:11] [connection] incoming connection: 127.0.0.1:52225 id: 0
+[03:17:11] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:18:33] --- Server Shutting Down.
+[03:18:33] [part] Nisad_Rahman has left the server (0:0)
+[03:18:33] 
+
+[03:18:33]  ===============================
+
+[03:18:33]      sscanf plugin unloaded.    
+
+[03:18:33]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:18:34] 
+[03:18:34] Server Plugins
+[03:18:34] --------------
+[03:18:34]  Loading plugin: sscanf
+[03:18:34] 
+
+[03:18:34]  ===============================
+
+[03:18:34]       sscanf plugin loaded.     
+
+[03:18:34]          Version:  2.8.3        
+
+[03:18:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:18:34]  ===============================
+
+[03:18:34]   Loaded.
+[03:18:34]  Loaded 1 plugins.
+
+[03:18:34] 
+[03:18:34] Filterscripts
+[03:18:34] ---------------
+[03:18:34]   Loading filterscript 'random/gl_actions.amx'...
+[03:18:34]   Loading filterscript 'random/gl_chat.amx'...
+[03:18:34]   Loading filterscript 'random/vspawner.amx'...
+[03:18:34] 
+--Admin Vehicle Spawner Loaded
+
+[03:18:34]   Loaded 3 filterscripts.
+
+[03:18:34] 
+----------------------------------
+[03:18:34]  Gamemode by hellonishad.com
+[03:18:34] ----------------------------------
+
+[03:18:34] Number of vehicle models: 1
+[03:18:36] [connection] 127.0.0.1:52615 requests connection cookie.
+[03:18:37] [connection] incoming connection: 127.0.0.1:52615 id: 0
+[03:18:37] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:19:52] --- Server Shutting Down.
+[03:19:52] [part] Nisad_Rahman has left the server (0:0)
+[03:19:52] 
+
+[03:19:52]  ===============================
+
+[03:19:52]      sscanf plugin unloaded.    
+
+[03:19:52]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:19:59] 
+[03:19:59] Server Plugins
+[03:19:59] --------------
+[03:19:59]  Loading plugin: sscanf
+[03:19:59] 
+
+[03:19:59]  ===============================
+
+[03:19:59]       sscanf plugin loaded.     
+
+[03:19:59]          Version:  2.8.3        
+
+[03:19:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:19:59]  ===============================
+
+[03:19:59]   Loaded.
+[03:19:59]  Loaded 1 plugins.
+
+[03:19:59] 
+[03:19:59] Filterscripts
+[03:19:59] ---------------
+[03:19:59]   Loading filterscript 'random/gl_actions.amx'...
+[03:19:59]   Loading filterscript 'random/gl_chat.amx'...
+[03:19:59]   Loading filterscript 'random/vspawner.amx'...
+[03:19:59] 
+--Admin Vehicle Spawner Loaded
+
+[03:19:59]   Loaded 3 filterscripts.
+
+[03:19:59] 
+----------------------------------
+[03:19:59]  Gamemode by hellonishad.com
+[03:19:59] ----------------------------------
+
+[03:19:59] Number of vehicle models: 1
+[03:20:01] [connection] 127.0.0.1:58029 requests connection cookie.
+[03:20:02] [connection] incoming connection: 127.0.0.1:58029 id: 0
+[03:20:02] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:20:58] --- Server Shutting Down.
+[03:20:58] [part] Nisad_Rahman has left the server (0:0)
+[03:20:58] 
+
+[03:20:58]  ===============================
+
+[03:20:58]      sscanf plugin unloaded.    
+
+[03:20:58]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:21:04] 
+[03:21:04] Server Plugins
+[03:21:04] --------------
+[03:21:04]  Loading plugin: sscanf
+[03:21:04] 
+
+[03:21:04]  ===============================
+
+[03:21:04]       sscanf plugin loaded.     
+
+[03:21:04]          Version:  2.8.3        
+
+[03:21:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:21:04]  ===============================
+
+[03:21:04]   Loaded.
+[03:21:04]  Loaded 1 plugins.
+
+[03:21:05] 
+[03:21:05] Filterscripts
+[03:21:05] ---------------
+[03:21:05]   Loading filterscript 'random/gl_actions.amx'...
+[03:21:05]   Loading filterscript 'random/gl_chat.amx'...
+[03:21:05]   Loading filterscript 'random/vspawner.amx'...
+[03:21:05] 
+--Admin Vehicle Spawner Loaded
+
+[03:21:05]   Loaded 3 filterscripts.
+
+[03:21:05] 
+----------------------------------
+[03:21:05]  Gamemode by hellonishad.com
+[03:21:05] ----------------------------------
+
+[03:21:05] Number of vehicle models: 1
+[03:21:07] [connection] 127.0.0.1:60584 requests connection cookie.
+[03:21:08] [connection] incoming connection: 127.0.0.1:60584 id: 0
+[03:21:08] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:21:26] --- Server Shutting Down.
+[03:21:26] [part] Nisad_Rahman has left the server (0:0)
+[03:21:26] 
+
+[03:21:26]  ===============================
+
+[03:21:26]      sscanf plugin unloaded.    
+
+[03:21:26]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:21:27] 
+[03:21:27] Server Plugins
+[03:21:27] --------------
+[03:21:27]  Loading plugin: sscanf
+[03:21:27] 
+
+[03:21:27]  ===============================
+
+[03:21:27]       sscanf plugin loaded.     
+
+[03:21:27]          Version:  2.8.3        
+
+[03:21:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:21:27]  ===============================
+
+[03:21:27]   Loaded.
+[03:21:27]  Loaded 1 plugins.
+
+[03:21:27] 
+[03:21:27] Filterscripts
+[03:21:27] ---------------
+[03:21:27]   Loading filterscript 'random/gl_actions.amx'...
+[03:21:27]   Loading filterscript 'random/gl_chat.amx'...
+[03:21:27]   Loading filterscript 'random/vspawner.amx'...
+[03:21:27] 
+--Admin Vehicle Spawner Loaded
+
+[03:21:27]   Loaded 3 filterscripts.
+
+[03:21:27] 
+----------------------------------
+[03:21:27]  Gamemode by hellonishad.com
+[03:21:27] ----------------------------------
+
+[03:21:27] Number of vehicle models: 1
+[03:21:29] [connection] 127.0.0.1:53369 requests connection cookie.
+[03:21:31] [connection] incoming connection: 127.0.0.1:53369 id: 0
+[03:21:31] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:23:46] --- Server Shutting Down.
+[03:23:46] [part] Nisad_Rahman has left the server (0:0)
+[03:23:46] 
+
+[03:23:46]  ===============================
+
+[03:23:46]      sscanf plugin unloaded.    
+
+[03:23:46]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:23:51] 
+[03:23:51] Server Plugins
+[03:23:51] --------------
+[03:23:51]  Loading plugin: sscanf
+[03:23:51] 
+
+[03:23:51]  ===============================
+
+[03:23:51]       sscanf plugin loaded.     
+
+[03:23:51]          Version:  2.8.3        
+
+[03:23:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:23:51]  ===============================
+
+[03:23:51]   Loaded.
+[03:23:51]  Loaded 1 plugins.
+
+[03:23:51] 
+[03:23:51] Filterscripts
+[03:23:51] ---------------
+[03:23:51]   Loading filterscript 'random/gl_actions.amx'...
+[03:23:51]   Loading filterscript 'random/gl_chat.amx'...
+[03:23:51]   Loading filterscript 'random/vspawner.amx'...
+[03:23:51] 
+--Admin Vehicle Spawner Loaded
+
+[03:23:51]   Loaded 3 filterscripts.
+
+[03:23:51] 
+----------------------------------
+[03:23:51]  Gamemode by hellonishad.com
+[03:23:51] ----------------------------------
+
+[03:23:51] Number of vehicle models: 1
+[03:23:53] [connection] 127.0.0.1:56597 requests connection cookie.
+[03:23:54] [connection] incoming connection: 127.0.0.1:56597 id: 0
+[03:23:54] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:24:27] --- Server Shutting Down.
+[03:24:27] [part] Nisad_Rahman has left the server (0:0)
+[03:24:27] 
+
+[03:24:27]  ===============================
+
+[03:24:27]      sscanf plugin unloaded.    
+
+[03:24:27]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:24:32] 
+[03:24:32] Server Plugins
+[03:24:32] --------------
+[03:24:32]  Loading plugin: sscanf
+[03:24:32] 
+
+[03:24:32]  ===============================
+
+[03:24:32]       sscanf plugin loaded.     
+
+[03:24:32]          Version:  2.8.3        
+
+[03:24:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:24:32]  ===============================
+
+[03:24:32]   Loaded.
+[03:24:32]  Loaded 1 plugins.
+
+[03:24:32] 
+[03:24:32] Filterscripts
+[03:24:32] ---------------
+[03:24:32]   Loading filterscript 'random/gl_actions.amx'...
+[03:24:32]   Loading filterscript 'random/gl_chat.amx'...
+[03:24:32]   Loading filterscript 'random/vspawner.amx'...
+[03:24:32] 
+--Admin Vehicle Spawner Loaded
+
+[03:24:32]   Loaded 3 filterscripts.
+
+[03:24:32] 
+----------------------------------
+[03:24:32]  Gamemode by hellonishad.com
+[03:24:32] ----------------------------------
+
+[03:24:32] Number of vehicle models: 1
+[03:24:34] [connection] 127.0.0.1:61423 requests connection cookie.
+[03:24:35] [connection] incoming connection: 127.0.0.1:61423 id: 0
+[03:24:35] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:25:14] --- Server Shutting Down.
+[03:25:14] [part] Nisad_Rahman has left the server (0:0)
+[03:25:14] 
+
+[03:25:14]  ===============================
+
+[03:25:14]      sscanf plugin unloaded.    
+
+[03:25:14]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:25:19] 
+[03:25:19] Server Plugins
+[03:25:19] --------------
+[03:25:19]  Loading plugin: sscanf
+[03:25:19] 
+
+[03:25:19]  ===============================
+
+[03:25:19]       sscanf plugin loaded.     
+
+[03:25:19]          Version:  2.8.3        
+
+[03:25:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:25:19]  ===============================
+
+[03:25:19]   Loaded.
+[03:25:19]  Loaded 1 plugins.
+
+[03:25:19] 
+[03:25:19] Filterscripts
+[03:25:19] ---------------
+[03:25:19]   Loading filterscript 'random/gl_actions.amx'...
+[03:25:19]   Loading filterscript 'random/gl_chat.amx'...
+[03:25:19]   Loading filterscript 'random/vspawner.amx'...
+[03:25:19] 
+--Admin Vehicle Spawner Loaded
+
+[03:25:19]   Loaded 3 filterscripts.
+
+[03:25:19] 
+----------------------------------
+[03:25:19]  Gamemode by hellonishad.com
+[03:25:19] ----------------------------------
+
+[03:25:19] Number of vehicle models: 1
+[03:25:22] [connection] 127.0.0.1:54322 requests connection cookie.
+[03:25:23] [connection] incoming connection: 127.0.0.1:54322 id: 0
+[03:25:23] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:31:27] --- Server Shutting Down.
+[03:31:27] [part] Nisad_Rahman has left the server (0:0)
+[03:31:27] 
+
+[03:31:27]  ===============================
+
+[03:31:27]      sscanf plugin unloaded.    
+
+[03:31:27]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:32:14] 
+[03:32:14] Server Plugins
+[03:32:14] --------------
+[03:32:14]  Loading plugin: sscanf
+[03:32:14] 
+
+[03:32:14]  ===============================
+
+[03:32:14]       sscanf plugin loaded.     
+
+[03:32:14]          Version:  2.8.3        
+
+[03:32:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:32:14]  ===============================
+
+[03:32:14]   Loaded.
+[03:32:14]  Loaded 1 plugins.
+
+[03:32:14] 
+[03:32:14] Filterscripts
+[03:32:14] ---------------
+[03:32:14]   Loading filterscript 'random/gl_actions.amx'...
+[03:32:14]   Loading filterscript 'random/gl_chat.amx'...
+[03:32:14]   Loading filterscript 'random/vspawner.amx'...
+[03:32:14] 
+--Admin Vehicle Spawner Loaded
+
+[03:32:14]   Loaded 3 filterscripts.
+
+[03:32:14] 
+----------------------------------
+[03:32:14]  Gamemode by hellonishad.com
+[03:32:14] ----------------------------------
+
+[03:32:14] Number of vehicle models: 1
+[03:32:17] [connection] 127.0.0.1:62828 requests connection cookie.
+[03:32:18] [connection] incoming connection: 127.0.0.1:62828 id: 0
+[03:32:18] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:33:32] [connection] 192.168.1.110:40009 requests connection cookie.
+[03:33:33] [connection] incoming connection: 192.168.1.110:40009 id: 1
+[03:33:34] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[03:35:50] [connection] 192.168.1.110:37010 requests connection cookie.
+[03:35:51] [connection] incoming connection: 192.168.1.110:37010 id: 2
+[03:35:54] [part] Nick_Jonas has left the server (1:0)
+[03:42:50] --- Server Shutting Down.
+[03:42:50] [part] Nisad_Rahman has left the server (0:0)
+[03:42:50] 
+
+[03:42:50]  ===============================
+
+[03:42:50]      sscanf plugin unloaded.    
+
+[03:42:50]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:42:50] 
+[03:42:50] Server Plugins
+[03:42:50] --------------
+[03:42:50]  Loading plugin: sscanf
+[03:42:50] 
+
+[03:42:50]  ===============================
+
+[03:42:50]       sscanf plugin loaded.     
+
+[03:42:51]          Version:  2.8.3        
+
+[03:42:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:42:51]  ===============================
+
+[03:42:51]   Loaded.
+[03:42:51]  Loaded 1 plugins.
+
+[03:42:51] 
+[03:42:51] Filterscripts
+[03:42:51] ---------------
+[03:42:51]   Loading filterscript 'random/gl_actions.amx'...
+[03:42:51]   Loading filterscript 'random/gl_chat.amx'...
+[03:42:51]   Loading filterscript 'random/vspawner.amx'...
+[03:42:51] 
+--Admin Vehicle Spawner Loaded
+
+[03:42:51]   Loaded 3 filterscripts.
+
+[03:42:51] 
+----------------------------------
+[03:42:51]  Gamemode by hellonishad.com
+[03:42:51] ----------------------------------
+
+[03:42:51] Number of vehicle models: 1
+[03:42:53] [connection] 127.0.0.1:50004 requests connection cookie.
+[03:42:54] [connection] incoming connection: 127.0.0.1:50004 id: 0
+[03:42:54] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:44:02] --- Server Shutting Down.
+[03:44:02] [part] Nisad_Rahman has left the server (0:0)
+[03:44:02] 
+
+[03:44:02]  ===============================
+
+[03:44:02]      sscanf plugin unloaded.    
+
+[03:44:02]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:44:12] 
+[03:44:12] Server Plugins
+[03:44:12] --------------
+[03:44:12]  Loading plugin: sscanf
+[03:44:12] 
+
+[03:44:12]  ===============================
+
+[03:44:12]       sscanf plugin loaded.     
+
+[03:44:12]          Version:  2.8.3        
+
+[03:44:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:44:12]  ===============================
+
+[03:44:12]   Loaded.
+[03:44:12]  Loaded 1 plugins.
+
+[03:44:12] 
+[03:44:12] Filterscripts
+[03:44:12] ---------------
+[03:44:12]   Loading filterscript 'random/gl_actions.amx'...
+[03:44:12]   Loading filterscript 'random/gl_chat.amx'...
+[03:44:12]   Loading filterscript 'random/vspawner.amx'...
+[03:44:12] 
+--Admin Vehicle Spawner Loaded
+
+[03:44:12]   Loaded 3 filterscripts.
+
+[03:44:12] 
+----------------------------------
+[03:44:12]  Gamemode by hellonishad.com
+[03:44:12] ----------------------------------
+
+[03:44:12] Number of vehicle models: 1
+[03:44:14] [connection] 127.0.0.1:58251 requests connection cookie.
+[03:44:15] [connection] incoming connection: 127.0.0.1:58251 id: 0
+[03:44:16] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[03:46:28] --- Server Shutting Down.
+[03:46:28] [part] Nisad_Rahman has left the server (0:0)
+[03:46:28] 
+
+[03:46:28]  ===============================
+
+[03:46:28]      sscanf plugin unloaded.    
+
+[03:46:28]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:46:33] 
+[03:46:33] Server Plugins
+[03:46:33] --------------
+[03:46:33]  Loading plugin: sscanf
+[03:46:33] 
+
+[03:46:33]  ===============================
+
+[03:46:33]       sscanf plugin loaded.     
+
+[03:46:33]          Version:  2.8.3        
+
+[03:46:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:46:33]  ===============================
+
+[03:46:33]   Loaded.
+[03:46:33]  Loaded 1 plugins.
+
+[03:46:33] 
+[03:46:33] Filterscripts
+[03:46:33] ---------------
+[03:46:33]   Loading filterscript 'random/gl_actions.amx'...
+[03:46:33]   Loading filterscript 'random/gl_chat.amx'...
+[03:46:33]   Loading filterscript 'random/vspawner.amx'...
+[03:46:33] 
+--Admin Vehicle Spawner Loaded
+
+[03:46:33]   Loaded 3 filterscripts.
+
+[03:46:33] 
+----------------------------------
+[03:46:33]  Gamemode by hellonishad.com
+[03:46:33] ----------------------------------
+
+[03:46:33] Number of vehicle models: 1
+[03:46:35] [connection] 127.0.0.1:50070 requests connection cookie.
+[03:46:36] [connection] incoming connection: 127.0.0.1:50070 id: 0
+[03:46:36] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:59:44] 
+[03:59:44] Server Plugins
+[03:59:44] --------------
+[03:59:44]  Loading plugin: sscanf
+[03:59:44] 
+
+[03:59:44]  ===============================
+
+[03:59:44]       sscanf plugin loaded.     
+
+[03:59:44]          Version:  2.8.3        
+
+[03:59:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:59:44]  ===============================
+
+[03:59:44]   Loaded.
+[03:59:44]  Loading plugin: mysql
+[03:59:45]  >> plugin.mysql: R41-4 successfully loaded.
+[03:59:45]   Loaded.
+[03:59:45]  Loaded 2 plugins.
+
+[03:59:45] 
+[03:59:45] Filterscripts
+[03:59:45] ---------------
+[03:59:45]   Loading filterscript 'random/gl_actions.amx'...
+[03:59:45]   Loading filterscript 'random/gl_chat.amx'...
+[03:59:45]   Loading filterscript 'random/vspawner.amx'...
+[03:59:45] 
+--Admin Vehicle Spawner Loaded
+
+[03:59:45]   Loaded 3 filterscripts.
+
+[03:59:45] 
+----------------------------------
+[03:59:45]  Gamemode by hellonishad.com
+[03:59:45] ----------------------------------
+
+[03:59:45] Number of vehicle models: 1
+[03:59:48] [connection] 127.0.0.1:61104 requests connection cookie.
+[03:59:49] [connection] incoming connection: 127.0.0.1:62714 id: 0
+[03:59:49] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:05:20] --- Server Shutting Down.
+[04:05:20] [part] Nisad_Rahman has left the server (0:0)
+[04:05:20] 
+
+[04:05:20]  ===============================
+
+[04:05:20]      sscanf plugin unloaded.    
+
+[04:05:20]  ===============================
+
+[04:05:20] plugin.mysql: Unloading plugin...
+[04:05:20] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:05:20] 
+[04:05:20] Server Plugins
+[04:05:20] --------------
+[04:05:20]  Loading plugin: sscanf
+[04:05:20] 
+
+[04:05:20]  ===============================
+
+[04:05:20]       sscanf plugin loaded.     
+
+[04:05:20]          Version:  2.8.3        
+
+[04:05:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[04:05:20]  ===============================
+
+[04:05:20]   Loaded.
+[04:05:20]  Loading plugin: mysql
+[04:05:20]  >> plugin.mysql: R41-4 successfully loaded.
+[04:05:20]   Loaded.
+[04:05:20]  Loaded 2 plugins.
+
+[04:05:20] 
+[04:05:20] Filterscripts
+[04:05:20] ---------------
+[04:05:20]   Loading filterscript 'random/gl_actions.amx'...
+[04:05:20]   Loading filterscript 'random/gl_chat.amx'...
+[04:05:20]   Loading filterscript 'random/vspawner.amx'...
+[04:05:20] 
+--Admin Vehicle Spawner Loaded
+
+[04:05:20]   Loaded 3 filterscripts.
+
+[04:05:20] 
+----------------------------------
+[04:05:20]  Gamemode by hellonishad.com
+[04:05:20] ----------------------------------
+
+[04:05:20] Number of vehicle models: 1
+[04:05:23] [connection] 127.0.0.1:58920 requests connection cookie.
+[04:05:24] [connection] incoming connection: 127.0.0.1:58920 id: 0
+[04:05:24] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:07:27] --- Server Shutting Down.
+[04:07:27] [part] Nisad_Rahman has left the server (0:0)
+[04:07:27] 
+
+[04:07:27]  ===============================
+
+[04:07:27]      sscanf plugin unloaded.    
+
+[04:07:27]  ===============================
+
+[04:07:27] plugin.mysql: Unloading plugin...
+[04:07:27] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:07:29] 
+[04:07:29] Server Plugins
+[04:07:29] --------------
+[04:07:29]  Loading plugin: sscanf
+[04:07:29] 
+
+[04:07:29]  ===============================
+
+[04:07:29]       sscanf plugin loaded.     
+
+[04:07:29]          Version:  2.8.3        
+
+[04:07:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[04:07:29]  ===============================
+
+[04:07:29]   Loaded.
+[04:07:29]  Loading plugin: mysql
+[04:07:29]  >> plugin.mysql: R41-4 successfully loaded.
+[04:07:29]   Loaded.
+[04:07:29]  Loaded 2 plugins.
+
+[04:07:29] 
+[04:07:29] Filterscripts
+[04:07:29] ---------------
+[04:07:29]   Loading filterscript 'random/gl_actions.amx'...
+[04:07:29]   Loading filterscript 'random/gl_chat.amx'...
+[04:07:29]   Loading filterscript 'random/vspawner.amx'...
+[04:07:29] 
+--Admin Vehicle Spawner Loaded
+
+[04:07:29]   Loaded 3 filterscripts.
+
+[04:07:29] 
+----------------------------------
+[04:07:29]  Gamemode by hellonishad.com
+[04:07:29] ----------------------------------
+
+[04:07:29] Number of vehicle models: 1
+[04:07:32] [connection] 127.0.0.1:60394 requests connection cookie.
+[04:07:33] [connection] incoming connection: 127.0.0.1:60394 id: 0
+[04:07:33] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:14:14] --- Server Shutting Down.
+[04:14:14] [part] Nisad_Rahman has left the server (0:0)
+[04:14:14] 
+
+[04:14:14]  ===============================
+
+[04:14:14]      sscanf plugin unloaded.    
+
+[04:14:14]  ===============================
+
+[04:14:14] plugin.mysql: Unloading plugin...
+[04:14:14] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:14:24] 
+[04:14:24] Server Plugins
+[04:14:24] --------------
+[04:14:24]  Loading plugin: sscanf
+[04:14:24] 
+
+[04:14:24]  ===============================
+
+[04:14:24]       sscanf plugin loaded.     
+
+[04:14:24]          Version:  2.8.3        
+
+[04:14:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[04:14:24]  ===============================
+
+[04:14:24]   Loaded.
+[04:14:24]  Loading plugin: mysql
+[04:14:24]  >> plugin.mysql: R41-4 successfully loaded.
+[04:14:24]   Loaded.
+[04:14:24]  Loaded 2 plugins.
+
+[04:14:24] 
+[04:14:24] Filterscripts
+[04:14:24] ---------------
+[04:14:24]   Loading filterscript 'random/gl_actions.amx'...
+[04:14:24]   Loading filterscript 'random/gl_chat.amx'...
+[04:14:24]   Loading filterscript 'random/vspawner.amx'...
+[04:14:24] 
+--Admin Vehicle Spawner Loaded
+
+[04:14:24]   Loaded 3 filterscripts.
+
+[04:14:24] 
+----------------------------------
+[04:14:24]  Gamemode by hellonishad.com
+[04:14:24] ----------------------------------
+
+[04:14:24] Number of vehicle models: 1
+[04:14:26] [connection] 127.0.0.1:52616 requests connection cookie.
+[04:14:27] [connection] incoming connection: 127.0.0.1:52616 id: 0
+[04:14:27] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:15:13] --- Server Shutting Down.
+[04:15:13] [part] Nisad_Rahman has left the server (0:0)
+[04:15:13] 
+
+[04:15:13]  ===============================
+
+[04:15:13]      sscanf plugin unloaded.    
+
+[04:15:13]  ===============================
+
+[04:15:13] plugin.mysql: Unloading plugin...
+[04:15:13] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:15:19] 
+[04:15:19] Server Plugins
+[04:15:19] --------------
+[04:15:19]  Loading plugin: sscanf
+[04:15:19] 
+
+[04:15:19]  ===============================
+
+[04:15:19]       sscanf plugin loaded.     
+
+[04:15:19]          Version:  2.8.3        
+
+[04:15:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[04:15:19]  ===============================
+
+[04:15:19]   Loaded.
+[04:15:19]  Loading plugin: mysql
+[04:15:19]  >> plugin.mysql: R41-4 successfully loaded.
+[04:15:19]   Loaded.
+[04:15:19]  Loaded 2 plugins.
+
+[04:15:19] 
+[04:15:19] Filterscripts
+[04:15:19] ---------------
+[04:15:19]   Loading filterscript 'random/gl_actions.amx'...
+[04:15:19]   Loading filterscript 'random/gl_chat.amx'...
+[04:15:19]   Loading filterscript 'random/vspawner.amx'...
+[04:15:19] 
+--Admin Vehicle Spawner Loaded
+
+[04:15:19]   Loaded 3 filterscripts.
+
+[04:15:19] 
+----------------------------------
+[04:15:19]  Gamemode by hellonishad.com
+[04:15:19] ----------------------------------
+
+[04:15:19] Number of vehicle models: 1
+[04:15:22] [connection] 127.0.0.1:59182 requests connection cookie.
+[04:15:23] [connection] incoming connection: 127.0.0.1:59182 id: 0
+[04:15:23] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:18:32] --- Server Shutting Down.
+[04:18:32] [part] Nisad_Rahman has left the server (0:0)
+[04:18:32] 
+
+[04:18:32]  ===============================
+
+[04:18:32]      sscanf plugin unloaded.    
+
+[04:18:32]  ===============================
+
+[04:18:32] plugin.mysql: Unloading plugin...
+[04:18:32] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:18:33] 
+[04:18:33] Server Plugins
+[04:18:33] --------------
+[04:18:33]  Loading plugin: sscanf
+[04:18:33] 
+
+[04:18:33]  ===============================
+
+[04:18:33]       sscanf plugin loaded.     
+
+[04:18:33]          Version:  2.8.3        
+
+[04:18:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[04:18:33]  ===============================
+
+[04:18:33]   Loaded.
+[04:18:33]  Loading plugin: mysql
+[04:18:33]  >> plugin.mysql: R41-4 successfully loaded.
+[04:18:33]   Loaded.
+[04:18:33]  Loaded 2 plugins.
+
+[04:18:33] 
+[04:18:33] Filterscripts
+[04:18:33] ---------------
+[04:18:33]   Loading filterscript 'random/gl_actions.amx'...
+[04:18:33]   Loading filterscript 'random/gl_chat.amx'...
+[04:18:33]   Loading filterscript 'random/vspawner.amx'...
+[04:18:33] 
+--Admin Vehicle Spawner Loaded
+
+[04:18:33]   Loaded 3 filterscripts.
+
+[04:18:33] 
+----------------------------------
+[04:18:33]  Gamemode by hellonishad.com
+[04:18:33] ----------------------------------
+
+[04:18:33] Number of vehicle models: 1
+[04:18:36] [connection] 127.0.0.1:62358 requests connection cookie.
+[04:18:37] [connection] incoming connection: 127.0.0.1:62358 id: 0
+[04:18:37] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:19:17] --- Server Shutting Down.
+[04:19:17] [part] Nisad_Rahman has left the server (0:0)
+[04:19:17] 
+
+[04:19:17]  ===============================
+
+[04:19:17]      sscanf plugin unloaded.    
+
+[04:19:17]  ===============================
+
+[04:19:17] plugin.mysql: Unloading plugin...
+[04:19:17] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:34:56] 
+[04:34:56] Server Plugins
+[04:34:56] --------------
+[04:34:56]  Loading plugin: sscanf
+[04:34:56] 
+
+[04:34:56]  ===============================
+
+[04:34:56]       sscanf plugin loaded.     
+
+[04:34:56]          Version:  2.8.3        
+
+[04:34:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[04:34:56]  ===============================
+
+[04:34:56]   Loaded.
+[04:34:56]  Loading plugin: mysql
+[04:34:56]  >> plugin.mysql: R41-4 successfully loaded.
+[04:34:56]   Loaded.
+[04:34:56]  Loaded 2 plugins.
+
+[04:34:56] 
+[04:34:56] Filterscripts
+[04:34:56] ---------------
+[04:34:56]   Loading filterscript 'random/gl_actions.amx'...
+[04:34:56]   Loading filterscript 'random/gl_chat.amx'...
+[04:34:56]   Loading filterscript 'random/vspawner.amx'...
+[04:34:56] 
+--Admin Vehicle Spawner Loaded
+
+[04:34:56]   Loaded 3 filterscripts.
+
+[04:34:56] 
+----------------------------------
+[04:34:56]  Gamemode by hellonishad.com
+[04:34:56] ----------------------------------
+
+[04:34:56] Number of vehicle models: 1
+[04:34:59] [connection] 127.0.0.1:63765 requests connection cookie.
+[04:35:00] [connection] incoming connection: 127.0.0.1:63765 id: 0
+[04:35:01] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[04:35:11] [nick] Nisad_Rahman nick changed to Nishad
+[05:01:26] --- Server Shutting Down.
+[05:01:26] [part] Nishad has left the server (0:0)
+[05:01:26] 
+
+[05:01:26]  ===============================
+
+[05:01:26]      sscanf plugin unloaded.    
+
+[05:01:26]  ===============================
+
+[05:01:26] plugin.mysql: Unloading plugin...
+[05:01:26] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:04:36] 
+[05:04:36] Server Plugins
+[05:04:36] --------------
+[05:04:36]  Loading plugin: sscanf
+[05:04:36] 
+
+[05:04:36]  ===============================
+
+[05:04:36]       sscanf plugin loaded.     
+
+[05:04:36]          Version:  2.8.3        
+
+[05:04:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:04:36]  ===============================
+
+[05:04:36]   Loaded.
+[05:04:36]  Loading plugin: mysql
+[05:04:36]  >> plugin.mysql: R41-4 successfully loaded.
+[05:04:36]   Loaded.
+[05:04:36]  Loaded 2 plugins.
+
+[05:04:36] 
+[05:04:36] Filterscripts
+[05:04:36] ---------------
+[05:04:36]   Loading filterscript 'random/gl_actions.amx'...
+[05:04:36]   Loading filterscript 'random/gl_chat.amx'...
+[05:04:36]   Loading filterscript 'random/vspawner.amx'...
+[05:04:36] 
+--Admin Vehicle Spawner Loaded
+
+[05:04:36]   Loaded 3 filterscripts.
+
+[05:04:36] 
+----------------------------------
+[05:04:36]  Gamemode by hellonishad.com
+[05:04:36] ----------------------------------
+
+[05:04:36] Number of vehicle models: 1
+[05:04:47] [connection] 127.0.0.1:51737 requests connection cookie.
+[05:04:48] [connection] incoming connection: 127.0.0.1:51737 id: 0
+[05:04:48] [join] Nishad has joined the server (0:127.0.0.1)
+[05:08:24] [nick] Nishad nick changed to anarchy
+[05:12:12] [nick] anarchy nick changed to Nishad
+[05:13:02] [chat] [Nishad]: hh
+[05:14:08] [chat] [Nishad]: as
+[05:20:44] --- Server Shutting Down.
+[05:20:44] [part] Nishad has left the server (0:0)
+[05:20:44] 
+
+[05:20:44]  ===============================
+
+[05:20:44]      sscanf plugin unloaded.    
+
+[05:20:44]  ===============================
+
+[05:20:44] plugin.mysql: Unloading plugin...
+[05:20:44] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:20:46] 
+[05:20:46] Server Plugins
+[05:20:46] --------------
+[05:20:46]  Loading plugin: sscanf
+[05:20:46] 
+
+[05:20:46]  ===============================
+
+[05:20:46]       sscanf plugin loaded.     
+
+[05:20:46]          Version:  2.8.3        
+
+[05:20:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:20:46]  ===============================
+
+[05:20:46]   Loaded.
+[05:20:46]  Loading plugin: mysql
+[05:20:47]  >> plugin.mysql: R41-4 successfully loaded.
+[05:20:47]   Loaded.
+[05:20:47]  Loaded 2 plugins.
+
+[05:20:47] 
+[05:20:47] Filterscripts
+[05:20:47] ---------------
+[05:20:47]   Loading filterscript 'random/gl_actions.amx'...
+[05:20:47]   Loading filterscript 'random/gl_chat.amx'...
+[05:20:47]   Loading filterscript 'random/vspawner.amx'...
+[05:20:47] 
+--Admin Vehicle Spawner Loaded
+
+[05:20:47]   Loaded 3 filterscripts.
+
+[05:20:47] 
+----------------------------------
+[05:20:47]  Gamemode by hellonishad.com
+[05:20:47] ----------------------------------
+
+[05:20:47] Number of vehicle models: 1
+[05:20:49] [connection] 127.0.0.1:63683 requests connection cookie.
+[05:20:50] [connection] incoming connection: 127.0.0.1:63683 id: 0
+[05:20:50] [join] Nishad has joined the server (0:127.0.0.1)
+[05:20:57] [chat] [Nishad]: hero
+[05:22:04] [chat] [Nishad]: jkna
+[05:27:45] --- Server Shutting Down.
+[05:27:45] [part] Nishad has left the server (0:0)
+[05:27:45] 
+
+[05:27:45]  ===============================
+
+[05:27:45]      sscanf plugin unloaded.    
+
+[05:27:45]  ===============================
+
+[05:27:45] plugin.mysql: Unloading plugin...
+[05:27:45] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:27:52] 
+[05:27:52] Server Plugins
+[05:27:52] --------------
+[05:27:52]  Loading plugin: sscanf
+[05:27:52] 
+
+[05:27:52]  ===============================
+
+[05:27:52]       sscanf plugin loaded.     
+
+[05:27:52]          Version:  2.8.3        
+
+[05:27:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:27:52]  ===============================
+
+[05:27:52]   Loaded.
+[05:27:52]  Loading plugin: mysql
+[05:27:52]  >> plugin.mysql: R41-4 successfully loaded.
+[05:27:52]   Loaded.
+[05:27:52]  Loaded 2 plugins.
+
+[05:27:52] 
+[05:27:52] Filterscripts
+[05:27:52] ---------------
+[05:27:52]   Loading filterscript 'random/gl_actions.amx'...
+[05:27:52]   Loading filterscript 'random/gl_chat.amx'...
+[05:27:52]   Loading filterscript 'random/vspawner.amx'...
+[05:27:52] 
+--Admin Vehicle Spawner Loaded
+
+[05:27:52]   Loaded 3 filterscripts.
+
+[05:27:52] 
+----------------------------------
+[05:27:52]  Gamemode by hellonishad.com
+[05:27:52] ----------------------------------
+
+[05:27:52] Number of vehicle models: 1
+[05:27:57] [connection] 127.0.0.1:49619 requests connection cookie.
+[05:27:58] [connection] incoming connection: 127.0.0.1:49619 id: 0
+[05:27:58] [join] Nishad has joined the server (0:127.0.0.1)
+[05:28:48] --- Server Shutting Down.
+[05:28:48] [part] Nishad has left the server (0:0)
+[05:28:48] 
+
+[05:28:48]  ===============================
+
+[05:28:48]      sscanf plugin unloaded.    
+
+[05:28:48]  ===============================
+
+[05:28:48] plugin.mysql: Unloading plugin...
+[05:28:48] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:28:58] 
+[05:28:58] Server Plugins
+[05:28:58] --------------
+[05:28:58]  Loading plugin: sscanf
+[05:28:58] 
+
+[05:28:58]  ===============================
+
+[05:28:58]       sscanf plugin loaded.     
+
+[05:28:58]          Version:  2.8.3        
+
+[05:28:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:28:58]  ===============================
+
+[05:28:58]   Loaded.
+[05:28:58]  Loading plugin: mysql
+[05:28:58]  >> plugin.mysql: R41-4 successfully loaded.
+[05:28:58]   Loaded.
+[05:28:58]  Loaded 2 plugins.
+
+[05:28:58] 
+[05:28:58] Filterscripts
+[05:28:58] ---------------
+[05:28:58]   Loading filterscript 'random/gl_actions.amx'...
+[05:28:58]   Loading filterscript 'random/gl_chat.amx'...
+[05:28:58]   Loading filterscript 'random/vspawner.amx'...
+[05:28:58] 
+--Admin Vehicle Spawner Loaded
+
+[05:28:58]   Loaded 3 filterscripts.
+
+[05:28:58] 
+----------------------------------
+[05:28:58]  Gamemode by hellonishad.com
+[05:28:58] ----------------------------------
+
+[05:28:58] Number of vehicle models: 1
+[05:29:04] [connection] 127.0.0.1:57662 requests connection cookie.
+[05:29:05] [connection] incoming connection: 127.0.0.1:57662 id: 0
+[05:29:05] [join] Nishad has joined the server (0:127.0.0.1)
+[05:29:41] --- Server Shutting Down.
+[05:29:41] [part] Nishad has left the server (0:0)
+[05:29:41] 
+
+[05:29:41]  ===============================
+
+[05:29:41]      sscanf plugin unloaded.    
+
+[05:29:41]  ===============================
+
+[05:29:41] plugin.mysql: Unloading plugin...
+[05:29:41] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:51:42] 
+[05:51:42] Server Plugins
+[05:51:42] --------------
+[05:51:42]  Loading plugin: sscanf
+[05:51:42] 
+
+[05:51:42]  ===============================
+
+[05:51:42]       sscanf plugin loaded.     
+
+[05:51:42]          Version:  2.8.3        
+
+[05:51:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:51:42]  ===============================
+
+[05:51:42]   Loaded.
+[05:51:42]  Loading plugin: mysql
+[05:51:42]  >> plugin.mysql: R41-4 successfully loaded.
+[05:51:42]   Loaded.
+[05:51:42]  Loaded 2 plugins.
+
+[05:51:42] 
+[05:51:42] Filterscripts
+[05:51:42] ---------------
+[05:51:42]   Loading filterscript 'random/gl_actions.amx'...
+[05:51:42]   Loading filterscript 'random/gl_chat.amx'...
+[05:51:42]   Loading filterscript 'random/vspawner.amx'...
+[05:51:42] 
+--Admin Vehicle Spawner Loaded
+
+[05:51:42]   Loaded 3 filterscripts.
+
+[05:51:42] 
+----------------------------------
+[05:51:42]  Gamemode by hellonishad.com
+[05:51:42] ----------------------------------
+
+[05:51:42] Number of vehicle models: 1
+[05:51:45] [connection] 127.0.0.1:62738 requests connection cookie.
+[05:51:46] [connection] incoming connection: 127.0.0.1:62738 id: 0
+[05:51:46] [join] Nishad has joined the server (0:127.0.0.1)
+[05:51:56] 1 ascasc
+[05:51:56]  ascasc
+[05:52:13] [chat] [Nishad]: ascasc
+[05:52:54] --- Server Shutting Down.
+[05:52:54] [part] Nishad has left the server (0:0)
+[05:52:54] 
+
+[05:52:54]  ===============================
+
+[05:52:54]      sscanf plugin unloaded.    
+
+[05:52:54]  ===============================
+
+[05:52:54] plugin.mysql: Unloading plugin...
+[05:52:54] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:53:08] 
+[05:53:08] Server Plugins
+[05:53:08] --------------
+[05:53:08]  Loading plugin: sscanf
+[05:53:08] 
+
+[05:53:08]  ===============================
+
+[05:53:08]       sscanf plugin loaded.     
+
+[05:53:08]          Version:  2.8.3        
+
+[05:53:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:53:08]  ===============================
+
+[05:53:08]   Loaded.
+[05:53:08]  Loading plugin: mysql
+[05:53:08]  >> plugin.mysql: R41-4 successfully loaded.
+[05:53:08]   Loaded.
+[05:53:08]  Loaded 2 plugins.
+
+[05:53:08] 
+[05:53:08] Filterscripts
+[05:53:08] ---------------
+[05:53:08]   Loading filterscript 'random/gl_actions.amx'...
+[05:53:08]   Loading filterscript 'random/gl_chat.amx'...
+[05:53:08]   Loading filterscript 'random/vspawner.amx'...
+[05:53:08] 
+--Admin Vehicle Spawner Loaded
+
+[05:53:08]   Loaded 3 filterscripts.
+
+[05:53:08] 
+----------------------------------
+[05:53:08]  Gamemode by hellonishad.com
+[05:53:08] ----------------------------------
+
+[05:53:08] Number of vehicle models: 1
+[05:53:08] [connection] 127.0.0.1:55011 requests connection cookie.
+[05:53:09] [connection] incoming connection: 127.0.0.1:55011 id: 0
+[05:53:15] [join] Nishad has joined the server (0:127.0.0.1)
+[05:53:25] [chat] [Nishad]: ok
+[05:53:38] aaa bbb
+[05:54:06] --- Server Shutting Down.
+[05:54:06] [part] Nishad has left the server (0:0)
+[05:54:06] 
+
+[05:54:06]  ===============================
+
+[05:54:06]      sscanf plugin unloaded.    
+
+[05:54:06]  ===============================
+
+[05:54:06] plugin.mysql: Unloading plugin...
+[05:54:06] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:54:07] 
+[05:54:07] Server Plugins
+[05:54:07] --------------
+[05:54:07]  Loading plugin: sscanf
+[05:54:07] 
+
+[05:54:07]  ===============================
+
+[05:54:07]       sscanf plugin loaded.     
+
+[05:54:07]          Version:  2.8.3        
+
+[05:54:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:54:07]  ===============================
+
+[05:54:07]   Loaded.
+[05:54:07]  Loading plugin: mysql
+[05:54:07]  >> plugin.mysql: R41-4 successfully loaded.
+[05:54:07]   Loaded.
+[05:54:07]  Loaded 2 plugins.
+
+[05:54:07] 
+[05:54:07] Filterscripts
+[05:54:07] ---------------
+[05:54:07]   Loading filterscript 'random/gl_actions.amx'...
+[05:54:07]   Loading filterscript 'random/gl_chat.amx'...
+[05:54:07]   Loading filterscript 'random/vspawner.amx'...
+[05:54:07] 
+--Admin Vehicle Spawner Loaded
+
+[05:54:07]   Loaded 3 filterscripts.
+
+[05:54:07] 
+----------------------------------
+[05:54:07]  Gamemode by hellonishad.com
+[05:54:07] ----------------------------------
+
+[05:54:07] Number of vehicle models: 1
+[05:54:11] [connection] 127.0.0.1:61789 requests connection cookie.
+[05:54:12] [connection] incoming connection: 127.0.0.1:61789 id: 0
+[05:54:12] [join] Nishad has joined the server (0:127.0.0.1)
+[05:54:24] aa bbb
+[06:17:28] --- Server Shutting Down.
+[06:17:28] [part] Nishad has left the server (0:0)
+[06:17:28] 
+
+[06:17:28]  ===============================
+
+[06:17:28]      sscanf plugin unloaded.    
+
+[06:17:28]  ===============================
+
+[06:17:28] plugin.mysql: Unloading plugin...
+[06:17:28] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:17:47] 
+[06:17:47] Server Plugins
+[06:17:47] --------------
+[06:17:47]  Loading plugin: sscanf
+[06:17:47] 
+
+[06:17:47]  ===============================
+
+[06:17:47]       sscanf plugin loaded.     
+
+[06:17:47]          Version:  2.8.3        
+
+[06:17:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[06:17:47]  ===============================
+
+[06:17:47]   Loaded.
+[06:17:47]  Loading plugin: mysql
+[06:17:47]  >> plugin.mysql: R41-4 successfully loaded.
+[06:17:47]   Loaded.
+[06:17:47]  Loaded 2 plugins.
+
+[06:17:47] 
+[06:17:47] Filterscripts
+[06:17:47] ---------------
+[06:17:47]   Loading filterscript 'random/gl_actions.amx'...
+[06:17:47]   Loading filterscript 'random/gl_chat.amx'...
+[06:17:47]   Loading filterscript 'random/vspawner.amx'...
+[06:17:47] 
+--Admin Vehicle Spawner Loaded
+
+[06:17:47]   Loaded 3 filterscripts.
+
+[06:17:47] 
+----------------------------------
+[06:17:47]  Gamemode by hellonishad.com
+[06:17:47] ----------------------------------
+
+[06:17:47] Number of vehicle models: 1
+[06:17:47] [connection] 127.0.0.1:56616 requests connection cookie.
+[06:17:48] [connection] incoming connection: 127.0.0.1:56616 id: 0
+[06:17:49] [join] Nishad has joined the server (0:127.0.0.1)
+[06:18:17] [connection] 192.168.1.110:37231 requests connection cookie.
+[06:18:18] [connection] incoming connection: 192.168.1.110:37231 id: 1
+[06:18:19] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[06:19:48] [part] Nick_Jonas has left the server (1:0)
+[06:20:21] --- Server Shutting Down.
+[06:20:21] [part] Nishad has left the server (0:0)
+[06:20:21] 
+
+[06:20:21]  ===============================
+
+[06:20:21]      sscanf plugin unloaded.    
+
+[06:20:21]  ===============================
+
+[06:20:21] plugin.mysql: Unloading plugin...
+[06:20:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:20:22] 
+[06:20:22] Server Plugins
+[06:20:22] --------------
+[06:20:22]  Loading plugin: sscanf
+[06:20:22] 
+
+[06:20:22]  ===============================
+
+[06:20:22]       sscanf plugin loaded.     
+
+[06:20:22]          Version:  2.8.3        
+
+[06:20:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[06:20:22]  ===============================
+
+[06:20:22]   Loaded.
+[06:20:22]  Loading plugin: mysql
+[06:20:22]  >> plugin.mysql: R41-4 successfully loaded.
+[06:20:22]   Loaded.
+[06:20:22]  Loaded 2 plugins.
+
+[06:20:22] 
+[06:20:22] Filterscripts
+[06:20:22] ---------------
+[06:20:22]   Loading filterscript 'random/gl_actions.amx'...
+[06:20:22]   Loading filterscript 'random/gl_chat.amx'...
+[06:20:22]   Loading filterscript 'random/vspawner.amx'...
+[06:20:22] 
+--Admin Vehicle Spawner Loaded
+
+[06:20:22]   Loaded 3 filterscripts.
+
+[06:20:22] 
+----------------------------------
+[06:20:22]  Gamemode by hellonishad.com
+[06:20:22] ----------------------------------
+
+[06:20:22] Number of vehicle models: 1
+[06:20:27] [connection] 127.0.0.1:55605 requests connection cookie.
+[06:20:28] [connection] incoming connection: 127.0.0.1:55605 id: 0
+[06:20:28] [join] Nishad has joined the server (0:127.0.0.1)
+[06:20:44] [connection] 192.168.1.110:40720 requests connection cookie.
+[06:20:45] [connection] incoming connection: 192.168.1.110:40720 id: 1
+[06:20:45] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[06:28:33] RCON (In-Game): Player #0 (Nishad) has logged in.
+[06:28:40] RCON (In-Game): Player [Nishad] sent command: loadfs random/vspawner
+[06:28:40]   Filterscript 'random/vspawner.amx' load failed.
+[06:30:22] [chat] [Nick_Jonas]: what
+[06:30:30] [chat] [Nick_Jonas]: uwusus
+[06:31:37] [chat] [Nick_Jonas]: *5"4
+[06:31:44] [chat] [Nick_Jonas]: 555
+[06:31:51] [chat] [Nick_Jonas]: 5"55
+[06:31:57] [chat] [Nick_Jonas]: *(6("(
+[06:32:07] [chat] [Nick_Jonas]: #*#**#
+[06:37:52] --- Server Shutting Down.
+[06:37:52] [part] Nishad has left the server (0:0)
+[06:37:52] [part] Nick_Jonas has left the server (1:0)
+[06:37:52] 
+
+[06:37:52]  ===============================
+
+[06:37:52]      sscanf plugin unloaded.    
+
+[06:37:52]  ===============================
+
+[06:37:52] plugin.mysql: Unloading plugin...
+[06:37:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:38:53] 
+[06:38:53] Server Plugins
+[06:38:53] --------------
+[06:38:53]  Loading plugin: sscanf
+[06:38:53] 
+
+[06:38:53]  ===============================
+
+[06:38:53]       sscanf plugin loaded.     
+
+[06:38:53]          Version:  2.8.3        
+
+[06:38:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[06:38:53]  ===============================
+
+[06:38:53]   Loaded.
+[06:38:53]  Loading plugin: mysql
+[06:38:53]  >> plugin.mysql: R41-4 successfully loaded.
+[06:38:53]   Loaded.
+[06:38:53]  Loaded 2 plugins.
+
+[06:38:54] 
+[06:38:54] Filterscripts
+[06:38:54] ---------------
+[06:38:54]   Loading filterscript 'random/gl_actions.amx'...
+[06:38:54]   Loading filterscript 'random/gl_chat.amx'...
+[06:38:54]   Loading filterscript 'random/vspawner.amx'...
+[06:38:54] 
+--Admin Vehicle Spawner Loaded
+
+[06:38:54]   Loaded 3 filterscripts.
+
+[06:38:54] 
+----------------------------------
+[06:38:54]  Gamemode by hellonishad.com
+[06:38:54] ----------------------------------
+
+[06:38:54] Number of vehicle models: 1
+[06:38:57] [connection] 127.0.0.1:55627 requests connection cookie.
+[06:38:58] [connection] incoming connection: 127.0.0.1:55627 id: 0
+[06:38:58] [join] Nishad has joined the server (0:127.0.0.1)
+Console input: players
+[06:40:08] ID	Name	Ping	IP
+[06:40:08] 0	Nishad	17	127.0.0.1
+[06:40:13] [part] Nishad has left the server (0:1)
+[06:40:22] [connection] 127.0.0.1:57538 requests connection cookie.
+[06:40:23] [connection] incoming connection: 127.0.0.1:57538 id: 0
+[06:40:23] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[06:40:40] [connection] 192.168.1.110:45474 requests connection cookie.
+[06:40:41] [connection] incoming connection: 192.168.1.110:45474 id: 1
+[06:40:41] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[06:46:50] --- Server Shutting Down.
+[06:46:50] [part] Nisad_Rahman has left the server (0:0)
+[06:46:50] [part] Nick_Jonas has left the server (1:0)
+[06:46:50] 
+
+[06:46:50]  ===============================
+
+[06:46:50]      sscanf plugin unloaded.    
+
+[06:46:50]  ===============================
+
+[06:46:50] plugin.mysql: Unloading plugin...
+[06:46:50] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:46:51] 
+[06:46:51] Server Plugins
+[06:46:51] --------------
+[06:46:51]  Loading plugin: sscanf
+[06:46:51] 
+
+[06:46:51]  ===============================
+
+[06:46:51]       sscanf plugin loaded.     
+
+[06:46:51]          Version:  2.8.3        
+
+[06:46:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[06:46:51]  ===============================
+
+[06:46:51]   Loaded.
+[06:46:51]  Loading plugin: mysql
+[06:46:51]  >> plugin.mysql: R41-4 successfully loaded.
+[06:46:51]   Loaded.
+[06:46:51]  Loaded 2 plugins.
+
+[06:46:51] 
+[06:46:51] Filterscripts
+[06:46:51] ---------------
+[06:46:51]   Loading filterscript 'random/gl_actions.amx'...
+[06:46:51]   Loading filterscript 'random/gl_chat.amx'...
+[06:46:51]   Loading filterscript 'random/vspawner.amx'...
+[06:46:51] 
+--Admin Vehicle Spawner Loaded
+
+[06:46:51]   Loaded 3 filterscripts.
+
+[06:46:51] 
+----------------------------------
+[06:46:51]  Gamemode by hellonishad.com
+[06:46:51] ----------------------------------
+
+[06:46:51] Number of vehicle models: 1
+[06:47:01] [connection] 127.0.0.1:52951 requests connection cookie.
+[06:47:02] [connection] incoming connection: 127.0.0.1:52951 id: 0
+[06:47:02] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[07:02:11] --- Server Shutting Down.
+[07:02:11] [part] Nisad_Rahman has left the server (0:0)
+[07:02:11] 
+
+[07:02:11]  ===============================
+
+[07:02:11]      sscanf plugin unloaded.    
+
+[07:02:11]  ===============================
+
+[07:02:11] plugin.mysql: Unloading plugin...
+[07:02:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:02:11] 
+[07:02:11] Server Plugins
+[07:02:11] --------------
+[07:02:11]  Loading plugin: sscanf
+[07:02:11] 
+
+[07:02:11]  ===============================
+
+[07:02:11]       sscanf plugin loaded.     
+
+[07:02:11]          Version:  2.8.3        
+
+[07:02:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:02:11]  ===============================
+
+[07:02:11]   Loaded.
+[07:02:11]  Loading plugin: mysql
+[07:02:11]  >> plugin.mysql: R41-4 successfully loaded.
+[07:02:11]   Loaded.
+[07:02:11]  Loaded 2 plugins.
+
+[07:02:11] 
+[07:02:11] Filterscripts
+[07:02:11] ---------------
+[07:02:11]   Loading filterscript 'random/gl_actions.amx'...
+[07:02:11]   Loading filterscript 'random/gl_chat.amx'...
+[07:02:11]   Loading filterscript 'random/vspawner.amx'...
+[07:02:11] 
+--Admin Vehicle Spawner Loaded
+
+[07:02:11]   Loaded 3 filterscripts.
+
+[07:02:11] 
+----------------------------------
+[07:02:11]  Gamemode by hellonishad.com
+[07:02:11] ----------------------------------
+
+[07:02:11] Number of vehicle models: 1
+[07:02:17] [connection] 127.0.0.1:59006 requests connection cookie.
+[07:02:18] [connection] incoming connection: 127.0.0.1:59006 id: 0
+[07:02:18] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[07:03:03] [chat] [Nisad_Rahman]: ashcask hca
+[07:03:04] [chat] [Nisad_Rahman]: asc 
+[07:03:06] [chat] [Nisad_Rahman]: as c
+[07:03:41] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:41] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:41] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:41] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:41] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:42] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:42] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:42] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:42] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:42] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:43] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:43] [chat] [Nisad_Rahman]: as cacahc a 
+[07:03:43] [chat] [Nisad_Rahman]: as cacahc a 
+[07:09:22] --- Server Shutting Down.
+[07:09:22] [part] Nisad_Rahman has left the server (0:0)
+[07:09:22] 
+
+[07:09:22]  ===============================
+
+[07:09:22]      sscanf plugin unloaded.    
+
+[07:09:22]  ===============================
+
+[07:09:22] plugin.mysql: Unloading plugin...
+[07:09:22] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:15:51] 
+[07:15:51] Server Plugins
+[07:15:51] --------------
+[07:15:51]  Loading plugin: sscanf
+[07:15:51] 
+
+[07:15:51]  ===============================
+
+[07:15:51]       sscanf plugin loaded.     
+
+[07:15:51]          Version:  2.8.3        
+
+[07:15:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:15:51]  ===============================
+
+[07:15:51]   Loaded.
+[07:15:51]  Loading plugin: mysql
+[07:15:51]  >> plugin.mysql: R41-4 successfully loaded.
+[07:15:51]   Loaded.
+[07:15:51]  Loaded 2 plugins.
+
+[07:15:51] 
+[07:15:51] Filterscripts
+[07:15:51] ---------------
+[07:15:51]   Loading filterscript 'random/gl_actions.amx'...
+[07:15:51]   Loading filterscript 'random/gl_chat.amx'...
+[07:15:51]   Loading filterscript 'random/vspawner.amx'...
+[07:15:51] 
+--Admin Vehicle Spawner Loaded
+
+[07:15:51]   Loaded 3 filterscripts.
+
+[07:15:51] 
+----------------------------------
+[07:15:51]  Gamemode by hellonishad.com
+[07:15:51] ----------------------------------
+
+[07:15:51] Number of vehicle models: 1
+[07:15:57] [connection] 127.0.0.1:56019 requests connection cookie.
+[07:15:58] [connection] incoming connection: 127.0.0.1:56019 id: 0
+[07:15:58] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[07:16:55] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:56] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:56] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:56] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:56] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:56] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:56] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:57] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:57] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:57] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:57] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:57] [chat] [Nisad_Rahman]: as cacahc a 
+[07:16:58] [chat] [Nisad_Rahman]: as cacahc a 
+[07:17:14] [connection] 192.168.1.110:38975 requests connection cookie.
+[07:17:15] [connection] incoming connection: 192.168.1.110:38975 id: 1
+[07:17:15] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[07:24:28] --- Server Shutting Down.
+[07:24:28] [part] Nisad_Rahman has left the server (0:0)
+[07:24:28] [part] Nick_Jonas has left the server (1:0)
+[07:24:28] 
+
+[07:24:28]  ===============================
+
+[07:24:28]      sscanf plugin unloaded.    
+
+[07:24:28]  ===============================
+
+[07:24:28] plugin.mysql: Unloading plugin...
+[07:24:28] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:31:37] 
+[07:31:37] Server Plugins
+[07:31:37] --------------
+[07:31:37]  Loading plugin: sscanf
+[07:31:37] 
+
+[07:31:37]  ===============================
+
+[07:31:37]       sscanf plugin loaded.     
+
+[07:31:37]          Version:  2.8.3        
+
+[07:31:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:31:37]  ===============================
+
+[07:31:37]   Loaded.
+[07:31:37]  Loading plugin: mysql
+[07:31:37]  >> plugin.mysql: R41-4 successfully loaded.
+[07:31:37]   Loaded.
+[07:31:37]  Loaded 2 plugins.
+
+[07:31:37] 
+[07:31:37] Filterscripts
+[07:31:37] ---------------
+[07:31:37]   Loading filterscript 'random/gl_actions.amx'...
+[07:31:37]   Loading filterscript 'random/gl_chat.amx'...
+[07:31:37]   Loading filterscript 'random/vspawner.amx'...
+[07:31:37] 
+--Admin Vehicle Spawner Loaded
+
+[07:31:37]   Loaded 3 filterscripts.
+
+[07:31:37] 
+----------------------------------
+[07:31:37]  Gamemode by hellonishad.com
+[07:31:37] ----------------------------------
+
+[07:31:37] Number of vehicle models: 1
+[07:32:11] [connection] 127.0.0.1:59255 requests connection cookie.
+[07:32:12] [connection] incoming connection: 127.0.0.1:59255 id: 0
+[07:32:12] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[07:35:52] --- Server Shutting Down.
+[07:35:52] [part] Nisad_Rahman has left the server (0:0)
+[07:35:52] 
+
+[07:35:52]  ===============================
+
+[07:35:52]      sscanf plugin unloaded.    
+
+[07:35:52]  ===============================
+
+[07:35:52] plugin.mysql: Unloading plugin...
+[07:35:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:35:53] 
+[07:35:53] Server Plugins
+[07:35:53] --------------
+[07:35:53]  Loading plugin: sscanf
+[07:35:53] 
+
+[07:35:53]  ===============================
+
+[07:35:53]       sscanf plugin loaded.     
+
+[07:35:53]          Version:  2.8.3        
+
+[07:35:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:35:53]  ===============================
+
+[07:35:53]   Loaded.
+[07:35:53]  Loading plugin: mysql
+[07:35:53]  >> plugin.mysql: R41-4 successfully loaded.
+[07:35:53]   Loaded.
+[07:35:53]  Loaded 2 plugins.
+
+[07:35:53] 
+[07:35:53] Filterscripts
+[07:35:53] ---------------
+[07:35:53]   Loading filterscript 'random/gl_actions.amx'...
+[07:35:53]   Loading filterscript 'random/gl_chat.amx'...
+[07:35:53]   Loading filterscript 'random/vspawner.amx'...
+[07:35:53] 
+--Admin Vehicle Spawner Loaded
+
+[07:35:53]   Loaded 3 filterscripts.
+
+[07:35:53] 
+----------------------------------
+[07:35:53]  Gamemode by hellonishad.com
+[07:35:53] ----------------------------------
+
+[07:35:53] Number of vehicle models: 1
+[07:35:58] [connection] 127.0.0.1:54433 requests connection cookie.
+[07:35:59] [connection] incoming connection: 127.0.0.1:54433 id: 0
+[07:36:00] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[07:36:11] [connection] 192.168.1.110:45470 requests connection cookie.
+[07:36:12] [connection] incoming connection: 192.168.1.110:45470 id: 1
+[07:36:13] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[07:36:53] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[07:40:51] --- Server Shutting Down.
+[07:40:51] [part] Nisad_Rahman has left the server (0:0)
+[07:40:51] [part] Nick_Jonas has left the server (1:0)
+[07:40:51] 
+
+[07:40:51]  ===============================
+
+[07:40:51]      sscanf plugin unloaded.    
+
+[07:40:51]  ===============================
+
+[07:40:51] plugin.mysql: Unloading plugin...
+[07:40:51] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:40:58] 
+[07:40:58] Server Plugins
+[07:40:58] --------------
+[07:40:58]  Loading plugin: sscanf
+[07:40:58] 
+
+[07:40:58]  ===============================
+
+[07:40:58]       sscanf plugin loaded.     
+
+[07:40:58]          Version:  2.8.3        
+
+[07:40:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:40:58]  ===============================
+
+[07:40:58]   Loaded.
+[07:40:58]  Loading plugin: mysql
+[07:40:58]  >> plugin.mysql: R41-4 successfully loaded.
+[07:40:58]   Loaded.
+[07:40:58]  Loaded 2 plugins.
+
+[07:40:58] 
+[07:40:58] Filterscripts
+[07:40:58] ---------------
+[07:40:58]   Loading filterscript 'random/gl_actions.amx'...
+[07:40:58]   Loading filterscript 'random/gl_chat.amx'...
+[07:40:58]   Loading filterscript 'random/vspawner.amx'...
+[07:40:58] 
+--Admin Vehicle Spawner Loaded
+
+[07:40:58]   Loaded 3 filterscripts.
+
+[07:40:58] 
+----------------------------------
+[07:40:58]  Gamemode by hellonishad.com
+[07:40:58] ----------------------------------
+
+[07:40:58] Number of vehicle models: 1
+[08:01:11] --- Server Shutting Down.
+[08:01:11] 
+
+[08:01:11]  ===============================
+
+[08:01:11]      sscanf plugin unloaded.    
+
+[08:01:11]  ===============================
+
+[08:01:11] plugin.mysql: Unloading plugin...
+[08:01:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:31:43] 
+[08:31:43] Server Plugins
+[08:31:43] --------------
+[08:31:43]  Loading plugin: sscanf
+[08:31:43] 
+
+[08:31:43]  ===============================
+
+[08:31:43]       sscanf plugin loaded.     
+
+[08:31:43]          Version:  2.8.3        
+
+[08:31:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:31:43]  ===============================
+
+[08:31:43]   Loaded.
+[08:31:43]  Loading plugin: mysql
+[08:31:43]  >> plugin.mysql: R41-4 successfully loaded.
+[08:31:43]   Loaded.
+[08:31:43]  Loaded 2 plugins.
+
+[08:31:43] 
+[08:31:43] Filterscripts
+[08:31:43] ---------------
+[08:31:43]   Loading filterscript 'random/gl_actions.amx'...
+[08:31:43]   Loading filterscript 'random/gl_chat.amx'...
+[08:31:43]   Loading filterscript 'random/vspawner.amx'...
+[08:31:43] 
+--Admin Vehicle Spawner Loaded
+
+[08:31:43]   Loaded 3 filterscripts.
+
+[08:31:43] 
+----------------------------------
+[08:31:43]  Gamemode by hellonishad.com
+[08:31:43] ----------------------------------
+
+[08:31:43] Number of vehicle models: 1
+[08:31:54] [connection] 127.0.0.1:58324 requests connection cookie.
+[08:31:55] [connection] incoming connection: 127.0.0.1:58324 id: 0
+[08:31:55] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+Console input: players
+[08:35:20] ID	Name	Ping	IP
+[08:35:20] 0	Nisad_Rahman	18	127.0.0.1
+[08:35:23] --- Server Shutting Down.
+[08:35:23] [part] Nisad_Rahman has left the server (0:0)
+[08:35:23] 
+
+[08:35:23]  ===============================
+
+[08:35:23]      sscanf plugin unloaded.    
+
+[08:35:23]  ===============================
+
+[08:35:23] plugin.mysql: Unloading plugin...
+[08:35:23] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:35:25] 
+[08:35:25] Server Plugins
+[08:35:25] --------------
+[08:35:25]  Loading plugin: sscanf
+[08:35:25] 
+
+[08:35:25]  ===============================
+
+[08:35:25]       sscanf plugin loaded.     
+
+[08:35:25]          Version:  2.8.3        
+
+[08:35:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:35:25]  ===============================
+
+[08:35:25]   Loaded.
+[08:35:25]  Loading plugin: mysql
+[08:35:25]  >> plugin.mysql: R41-4 successfully loaded.
+[08:35:25]   Loaded.
+[08:35:25]  Loaded 2 plugins.
+
+[08:35:25] 
+[08:35:25] Filterscripts
+[08:35:25] ---------------
+[08:35:25]   Loading filterscript 'random/gl_actions.amx'...
+[08:35:26]   Loading filterscript 'random/gl_chat.amx'...
+[08:35:26]   Loading filterscript 'random/vspawner.amx'...
+[08:35:26] 
+--Admin Vehicle Spawner Loaded
+
+[08:35:26]   Loaded 3 filterscripts.
+
+[08:35:26] 
+----------------------------------
+[08:35:26]  Gamemode by hellonishad.com
+[08:35:26] ----------------------------------
+
+[08:35:26] Number of vehicle models: 1
+[08:35:30] [connection] 127.0.0.1:60890 requests connection cookie.
+[08:35:32] [connection] incoming connection: 127.0.0.1:60890 id: 0
+[08:35:32] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[08:35:49] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[08:38:41] --- Server Shutting Down.
+[08:38:41] [part] Nisad_Rahman has left the server (0:0)
+[08:38:41] 
+
+[08:38:41]  ===============================
+
+[08:38:41]      sscanf plugin unloaded.    
+
+[08:38:41]  ===============================
+
+[08:38:41] plugin.mysql: Unloading plugin...
+[08:38:41] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:38:41] 
+[08:38:41] Server Plugins
+[08:38:41] --------------
+[08:38:41]  Loading plugin: sscanf
+[08:38:41] 
+
+[08:38:41]  ===============================
+
+[08:38:41]       sscanf plugin loaded.     
+
+[08:38:41]          Version:  2.8.3        
+
+[08:38:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:38:41]  ===============================
+
+[08:38:41]   Loaded.
+[08:38:41]  Loading plugin: mysql
+[08:38:42]  >> plugin.mysql: R41-4 successfully loaded.
+[08:38:42]   Loaded.
+[08:38:42]  Loaded 2 plugins.
+
+[08:38:42] 
+[08:38:42] Filterscripts
+[08:38:42] ---------------
+[08:38:42]   Loading filterscript 'random/gl_actions.amx'...
+[08:38:42]   Loading filterscript 'random/gl_chat.amx'...
+[08:38:42]   Loading filterscript 'random/vspawner.amx'...
+[08:38:42] 
+--Admin Vehicle Spawner Loaded
+
+[08:38:42]   Loaded 3 filterscripts.
+
+[08:38:42] 
+----------------------------------
+[08:38:42]  Gamemode by hellonishad.com
+[08:38:42] ----------------------------------
+
+[08:38:42] Number of vehicle models: 1
+[08:38:48] [connection] 127.0.0.1:56211 requests connection cookie.
+[08:38:49] [connection] incoming connection: 127.0.0.1:56211 id: 0
+[08:38:49] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[08:38:56] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[08:40:24] --- Server Shutting Down.
+[08:40:24] [part] Nisad_Rahman has left the server (0:0)
+[08:40:24] 
+
+[08:40:24]  ===============================
+
+[08:40:24]      sscanf plugin unloaded.    
+
+[08:40:24]  ===============================
+
+[08:40:24] plugin.mysql: Unloading plugin...
+[08:40:24] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:40:31] 
+[08:40:31] Server Plugins
+[08:40:31] --------------
+[08:40:31]  Loading plugin: sscanf
+[08:40:31] 
+
+[08:40:31]  ===============================
+
+[08:40:31]       sscanf plugin loaded.     
+
+[08:40:31]          Version:  2.8.3        
+
+[08:40:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:40:31]  ===============================
+
+[08:40:31]   Loaded.
+[08:40:31]  Loading plugin: mysql
+[08:40:31]  >> plugin.mysql: R41-4 successfully loaded.
+[08:40:31]   Loaded.
+[08:40:31]  Loaded 2 plugins.
+
+[08:40:31] 
+[08:40:31] Filterscripts
+[08:40:31] ---------------
+[08:40:31]   Loading filterscript 'random/gl_actions.amx'...
+[08:40:31]   Loading filterscript 'random/gl_chat.amx'...
+[08:40:31]   Loading filterscript 'random/vspawner.amx'...
+[08:40:31] 
+--Admin Vehicle Spawner Loaded
+
+[08:40:31]   Loaded 3 filterscripts.
+
+[08:40:31] 
+----------------------------------
+[08:40:31]  Gamemode by hellonishad.com
+[08:40:31] ----------------------------------
+
+[08:40:31] Number of vehicle models: 1
+[08:40:36] [connection] 127.0.0.1:54862 requests connection cookie.
+[08:40:37] [connection] incoming connection: 127.0.0.1:54862 id: 0
+[08:40:37] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[08:41:04] [connection] 192.168.1.110:38782 requests connection cookie.
+[08:41:05] [connection] incoming connection: 192.168.1.110:38782 id: 1
+[08:41:05] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[08:41:06] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[08:42:59] --- Server Shutting Down.
+[08:42:59] [part] Nisad_Rahman has left the server (0:0)
+[08:42:59] [part] Nick_Jonas has left the server (1:0)
+[08:42:59] 
+
+[08:42:59]  ===============================
+
+[08:42:59]      sscanf plugin unloaded.    
+
+[08:42:59]  ===============================
+
+[08:42:59] plugin.mysql: Unloading plugin...
+[08:42:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:43:00] 
+[08:43:00] Server Plugins
+[08:43:00] --------------
+[08:43:00]  Loading plugin: sscanf
+[08:43:00] 
+
+[08:43:00]  ===============================
+
+[08:43:00]       sscanf plugin loaded.     
+
+[08:43:00]          Version:  2.8.3        
+
+[08:43:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:43:00]  ===============================
+
+[08:43:00]   Loaded.
+[08:43:00]  Loading plugin: mysql
+[08:43:00]  >> plugin.mysql: R41-4 successfully loaded.
+[08:43:00]   Loaded.
+[08:43:00]  Loaded 2 plugins.
+
+[08:43:00] 
+[08:43:00] Filterscripts
+[08:43:00] ---------------
+[08:43:00]   Loading filterscript 'random/gl_actions.amx'...
+[08:43:00]   Loading filterscript 'random/gl_chat.amx'...
+[08:43:00]   Loading filterscript 'random/vspawner.amx'...
+[08:43:00] 
+--Admin Vehicle Spawner Loaded
+
+[08:43:00]   Loaded 3 filterscripts.
+
+[08:43:00] 
+----------------------------------
+[08:43:00]  Gamemode by hellonishad.com
+[08:43:00] ----------------------------------
+
+[08:43:00] Number of vehicle models: 1
+[08:43:04] [connection] 127.0.0.1:63100 requests connection cookie.
+[08:43:05] [connection] incoming connection: 127.0.0.1:63100 id: 0
+[08:43:06] [join] Nisad_Rahman has joined the server (0:127.0.0.1)
+[08:43:22] [connection] 192.168.1.110:42099 requests connection cookie.
+[08:43:23] [connection] incoming connection: 192.168.1.110:42099 id: 1
+[08:43:24] [join] Nick_Jonas has joined the server (1:192.168.1.110)
+[08:44:13] RCON (In-Game): Player #0 (Nisad_Rahman) has logged in.
+[08:45:07] [part] Nisad_Rahman has left the server (0:1)
+[08:45:27] [part] Nick_Jonas has left the server (1:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:59:45] 
+[13:59:45] Server Plugins
+[13:59:45] --------------
+[13:59:45]  Loading plugin: sscanf
+[13:59:45] 
+
+[13:59:45]  ===============================
+
+[13:59:45]       sscanf plugin loaded.     
+
+[13:59:45]          Version:  2.8.3        
+
+[13:59:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:59:45]  ===============================
+
+[13:59:45]   Loaded.
+[13:59:45]  Loading plugin: mysql
+[13:59:45]  >> plugin.mysql: R41-4 successfully loaded.
+[13:59:45]   Loaded.
+[13:59:45]  Loaded 2 plugins.
+
+[13:59:45] 
+[13:59:45] Filterscripts
+[13:59:45] ---------------
+[13:59:45]   Loading filterscript 'random/gl_actions.amx'...
+[13:59:45]   Loading filterscript 'random/gl_chat.amx'...
+[13:59:45]   Loading filterscript 'random/vspawner.amx'...
+[13:59:45] 
+--Admin Vehicle Spawner Loaded
+
+[13:59:45]   Loaded 3 filterscripts.
+
+[14:00:02] 
+----------------------------------
+[14:00:02]  Gamemode by hellonishad.com
+[14:00:02] ----------------------------------
+
+[14:00:02] Number of vehicle models: 1
+[14:00:12] --- Server Shutting Down.
+[14:00:12] 
+
+[14:00:12]  ===============================
+
+[14:00:12]      sscanf plugin unloaded.    
+
+[14:00:12]  ===============================
+
+[14:00:12] plugin.mysql: Unloading plugin...
+[14:00:12] plugin.mysql: Plugin unloaded.
